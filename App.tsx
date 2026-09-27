@@ -5,9 +5,8 @@
 
 import React, { useState, useEffect } from 'react';
 import { Product, StoreSettings, CustomerReview, FAQItem, Order, AdminUser, ProductCategory, HomepageSection } from './types';
-import { defaultProduct, defaultStoreSettings as defaultSettings, defaultReviews, defaultFAQs } from './data/defaultData';
 import { Settings, ShieldCheck } from 'lucide-react';
-
+import { defaultProducts } from './defaultData';
 // Components
 import { AnnouncementBar } from './components/AnnouncementBar';
 import { Header } from './components/Header';
