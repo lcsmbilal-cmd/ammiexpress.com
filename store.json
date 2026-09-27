@@ -1,0 +1,4334 @@
+{
+  "adminUsers": [
+    {
+      "role": "super_admin",
+      "lastLoginAt": "2026-09-24T05:26:30.672Z",
+      "email": "admin@ammiexpress.pk",
+      "salt": "f3ef4b7967442952cfe816041d03e4db",
+      "id": "admin-01",
+      "fullName": "Ammi Express Admin",
+      "updatedAt": "2026-09-24T05:31:49.185Z",
+      "passwordHash": "8aa8f76b55b32934286b70e95f06e2f1cf9a95016ae27b50f0d443e65ee6c84bd76579a16ff0403a8f998914e7fccba15284e08c73c32e9c74f9d540f5f51e69",
+      "username": "admin",
+      "tokenVersion": 2
+    }
+  ],
+  "products": [
+    {
+      "shortDescription": "Achieve neat, flawless eyebrows and smooth facial grooming anytime, anywhere with this convenient 2-in-1 rechargeable trimmer.\"   ",
+      "images": [
+        "/uploads/products-2026_08_18_2c174fb94bfebd3e78d-1790151342793.jpg",
+        "/uploads/products-2026_08_18_a59ca5c2fd93b49cfa4-1790151343478.jpg",
+        "/uploads/products-2026_08_18_d5a077010bb7c7767ab-1790151344385.jpg",
+        "/uploads/products-2026_08_15_09ee989b9616f61691d-1790151353896.jpg"
+      ],
+      "specifications": [
+        {
+          "label": "Product Name",
+          "value": "Blawless 2-in-1 Eyebrow Trimmer & Shaver"
+        },
+        {
+          "value": "HX-203B",
+          "label": "Model Number"
+        },
+        {
+          "label": "Functionality",
+          "value": "2-in-1 Eyebrow Trimming & Facial Hair Removal"
+        },
+        {
+          "label": "Motor Type",
+          "value": "High-speed silver-palladium alloy motor"
+        },
+        {
+          "label": "Blade Material",
+          "value": "Precision stainless steel cutting interface"
+        },
+        {
+          "label": "Power Source",
+          "value": "USB Rechargeable Battery"
+        },
+        {
+          "label": "Design",
+          "value": "Lightweight, compact, and portable for travel"
+        },
+        {
+          "label": "Application",
+          "value": "Suitable for everyday personal grooming"
+        }
+      ],
+      "variants": [
+        {
+          "colorCode": "#f50076",
+          "inStock": true,
+          "name": "New Color",
+          "id": "v-1790154124808"
+        }
+      ],
+      "slug": "ammi-express-smart-wireless-chopper",
+      "salePrice": 1199,
+      "badge": "\"Best Seller 2026\"",
+      "benefitsSection": {
+        "eyebrow": "ENGINEERED FOR DAILY USE",
+        "heading": "Why Every Pakistani Kitchen Needs This",
+        "description": "Say goodbye to painful manual chopping, burning eyes, and tangled electrical cords."
+      },
+      "headline": "\"Precision Grooming on the Go – Effortless Eyebrow and Facial Hair Removal!\"",
+      "benefits": [
+        {
+          "id": "b-1",
+          "productId": "prod-ammi-01",
+          "text": "Bluetooth Calling & Instant App Notifications",
+          "title": "Bluetooth Calling & Instant App Notifications",
+          "description": "Make and receive calls directly from your wrist with built-in high-fidelity microphone & speaker.",
+          "icon": "Zap",
+          "enabled": true,
+          "displayOrder": 1,
+          "createdAt": "2026-09-22T14:18:19.402Z",
+          "updatedAt": "2026-09-22T14:18:19.402Z"
+        },
+        {
+          "id": "b-2",
+          "productId": "prod-ammi-01",
+          "text": "24/7 Heart Rate, SpO2 & Sleep Tracker",
+          "title": "24/7 Heart Rate, SpO2 & Sleep Tracker",
+          "description": "Real-time biometric monitoring with multi-sport athletic tracking modes.",
+          "icon": "Heart",
+          "enabled": true,
+          "displayOrder": 2,
+          "createdAt": "2026-09-22T14:18:19.402Z",
+          "updatedAt": "2026-09-22T14:18:19.403Z"
+        },
+        {
+          "id": "b-3",
+          "productId": "prod-ammi-01",
+          "text": "2.2-Inch HD Ultra-Bright Curved Display",
+          "title": "2.2-Inch HD Ultra-Bright Curved Display",
+          "description": "Edge-to-edge vibrant crystal display easily readable even under bright outdoor sunlight.",
+          "icon": "Sparkles",
+          "enabled": true,
+          "displayOrder": 3,
+          "createdAt": "2026-09-22T14:18:19.403Z",
+          "updatedAt": "2026-09-22T14:18:19.403Z"
+        },
+        {
+          "id": "b-4",
+          "productId": "prod-ammi-01",
+          "text": "IP68 Water & Dust Resistant Construction",
+          "title": "IP68 Water & Dust Resistant Construction",
+          "description": "Engineered to withstand daily handwashing, rain showers, and intense gym sessions.",
+          "icon": "Droplets",
+          "enabled": true,
+          "displayOrder": 4,
+          "createdAt": "2026-09-22T14:18:19.403Z",
+          "updatedAt": "2026-09-22T14:18:19.403Z"
+        }
+      ],
+      "publishedAt": "2025-01-01T00:00:00.000Z",
+      "features": [
+        {
+          "icon": "Cpu",
+          "description": "Generates up to 1,200 RPM of cutting power, providing uniform fine chopping without crushing into juice.",
+          "title": "High-Torque 45W Pure Copper Motor",
+          "id": "f1",
+          "highlight": true
+        },
+        {
+          "id": "f2",
+          "description": "Angled precision blades circulate food downwards for a balanced, lump-free mincing result.",
+          "icon": "Scissors",
+          "title": "S-Shape 4-Blade Cyclone System"
+        },
+        {
+          "description": "Never cry cutting onions or get burning hands from green chillies ever again. Fully enclosed cup.",
+          "id": "f3",
+          "icon": "Sparkles",
+          "title": "Tear-Free Onion & Chilli Prep"
+        },
+        {
+          "description": "Motor only activates when the cup is locked safely in alignment, preventing accidental starts.",
+          "id": "f4",
+          "icon": "Lock",
+          "title": "Magnetic Child-Safety Lock"
+        }
+      ],
+      "reviewCount": 384,
+      "title": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+      "sku": "SKU: AMMI-HX203B-2IN1",
+      "stockCount": 190,
+      "howItWorks": [
+        {
+          "step": 1,
+          "description": "Place your cut onions, garlic cloves, ginger, boneless meat, or nuts into the 250ml food-grade cup.",
+          "title": "Add Your Ingredients"
+        },
+        {
+          "step": 2,
+          "title": "Secure The Safety Lid",
+          "description": "Align the top motor unit until the smart magnetic safety light indicator turns green."
+        },
+        {
+          "description": "Hold down the top soft-touch power button. Pulse for coarse chop or hold for 6-8 seconds for fine mince.",
+          "step": 3,
+          "title": "Press One Button for 6s"
+        },
+        {
+          "step": 4,
+          "title": "Rinse Clean Instantly",
+          "description": "Detach the cup and rinse blades directly under tap water. Ready for your next meal!"
+        }
+      ],
+      "lowStockThreshold": 6,
+      "regularPrice": 1599,
+      "detailedDescription": {
+        "sections": [
+          {
+            "content": "Traditional food processors take up half your kitchen counter, are painfully loud, and take 15 minutes just to wash. Our wireless chopper fits comfortably in one hand, runs whisper-quiet, and rinses clean in 10 seconds under running water.",
+            "title": "Why Pakistani Homemakers Switched to Ammi Express"
+          },
+          {
+            "content": "Your family safety is our primary priority. Built-in micro-switch magnets ensure the motor will strictly never turn on unless the cup lid is firmly latched in place.",
+            "title": "Safe Magnetic Sensor System"
+          }
+        ],
+        "highlightBox": "⭐ 100% Checking Guarantee: Check parcel upon delivery before paying the courier rider for complete peace of mind.",
+        "intro": "Engineered specifically for daily Pakistani cooking needs, the Ammi Express Smart Wireless Chopper transforms daily prep time from 25 tedious minutes to a mere 6 seconds. No bulky cables, no heavy noise, and no mess on your kitchen countertop.",
+        "bulletPoints": [
+          "Perfect for daily Tadka (Piaz, Adrak, Lehsan, Hari Mirch)",
+          "Prepares fresh Qeema (chicken/mutton boneless mincing) in seconds",
+          "Ideal for homemade Chutneys, Raita, Garlic Mayo, and Baby Purees",
+          "Compact & portable: use it in the kitchen, during camping, or during load shedding without electricity socket",
+          "Smart USB Type-C charging compatible with your standard mobile charger or powerbank"
+        ]
+      },
+      "currency": "Rs.",
+      "createdAt": "2025-01-01T00:00:00.000Z",
+      "id": "prod-ammi-01",
+      "status": "published",
+      "rating": 4.9,
+      "updatedAt": "2026-09-25T10:36:42.878Z",
+      "costPrice": 1199
+    }
+  ],
+  "settings": {
+    "seo": {
+      "metaDescription": "Shop premium home and kitchen products on Ammi Express Pakistan. Fast Cash on Delivery and JazzCash QR payment.",
+      "metaTitle": "Ammi Express - Smart Products. Better Everyday Living"
+    },
+    "brandName": "Ammi Express",
+    "businessName": "Ammi Express Pakistan",
+    "colors": {
+      "accent": "#16803D",
+      "primary": "#F5B800",
+      "dark": "#171717"
+    },
+    "freeDeliveryAbove": 3500,
+    "supportEmail": "support@ammiexpress.pk",
+    "logoHeight": 46,
+    "visibility": {
+      "showCategories": true,
+      "showAnnouncement": true,
+      "showTrust": true,
+      "showFeaturedProduct": true,
+      "showDescription": true,
+      "showFaqs": true,
+      "showHero": true,
+      "showFeatures": true,
+      "showOrderForm": true,
+      "showTrendingGrid": true,
+      "showFooterSocials": true,
+      "showSpecs": true,
+      "showHowItWorks": true,
+      "showReviews": true,
+      "showHeaderSocials": true,
+      "showBenefits": true,
+      "showDelivery": true
+    },
+    "logoAlignment": "right",
+    "jazzCashPayment": {
+      "qrDescription": "Till ID: 984210573 | Dial *786*10# or Scan with JazzCash / Raast / Any Bank App",
+      "enabled": true,
+      "qrImageUrl": "/assets/ammi-express-real-jazzcash-qr.png",
+      "instructions": "Open your JazzCash App > Tap \"Scan QR\" > Scan our verified merchant QR code or enter Till ID 984210573 > Take a screenshot and enter the Transaction ID below.",
+      "accountNumber": "0308-2494870",
+      "showQrCode": true,
+      "qrCodeImage": "/assets/ammi-express-real-jazzcash-qr.png",
+      "tillId": "984210573",
+      "qrTitle": "Ammi Express Official JazzCash / Raast Merchant Stand",
+      "accountTitle": "Ammi Express",
+      "verificationNotice": "Your payment will be manually verified by Ammi Express billing team within 30 minutes of order placement."
+    },
+    "whatsappPrefilledMessage": "Assalam-o-Alaikum Ammi Express, I need information about {product}.",
+    "logoBg": "transparent",
+    "footerSettings": {
+      "showLogo": true,
+      "showSocialLinks": true,
+      "showNewsletter": true,
+      "address": "Ammi Express Logistics Center, Main Commercial Boulevard, Gulberg, Lahore, Pakistan",
+      "operatingHours": "9:00 AM – 11:00 PM (Mon-Sun)",
+      "aboutText": "Pakistan's trusted store for innovative, high-quality household and kitchen lifestyle gadgets. We bring smart products to improve your everyday living.",
+      "supportEmail": "support@ammiexpress.pk",
+      "copyrightText": "© 2025 Ammi Express Pakistan. All Rights Reserved.",
+      "newsletterDescription": "Get WhatsApp and email alerts on upcoming seasonal discounts and kitchen essentials.",
+      "helplineNumber": "0308-2494870",
+      "newsletterTitle": "Subscribe for Exclusive Deals & New Arrivals"
+    },
+    "announcementBar": {
+      "text": "🚚 Fast Delivery All Over Pakistan | 💵 Cash on Delivery & JazzCash Available | ⚡ Limited Stock Sale",
+      "enabled": true,
+      "linkText": "Order Now"
+    },
+    "deliveryCharge": 250,
+    "socialLinks": {
+      "email": "support@ammiexpress.pk",
+      "pinterest": "https://pinterest.com/ammiexpresspk",
+      "tiktok": "https://tiktok.com/@ammiexpress.pk",
+      "youtube": "https://youtube.com/@ammiexpresspk",
+      "facebook": "https://facebook.com/ammiexpress.pk",
+      "instagram": "https://instagram.com/ammiexpress.pk",
+      "whatsapp": "https://wa.me/923082494870",
+      "twitter": "https://twitter.com/ammiexpresspk"
+    },
+    "sectionHeadings": {
+      "specificationsHeading": "Features & Technical Specifications",
+      "bestSelling": "Best Selling",
+      "newArrivals": "New Arrivals",
+      "categoriesTitle": "Premium Kitchen Collection",
+      "trendingProducts": "Trending Products",
+      "productGridSubtitle": "Customer Favorites Hand-picked for Quality",
+      "kitchenGadgets": "Premium Kitchen Collection",
+      "orderFormTitle": "Complete Your Order",
+      "featuresHeading": "Built for Power, Safety & Durability",
+      "featuredProducts": "Featured Products",
+      "productGridTitle": "Trending & New Arrivals",
+      "orderFormSubtitle": "Fill in your delivery details below. Pay Cash on Delivery when rider arrives, or pay via JazzCash QR.",
+      "categoriesSubtitle": "Discover our curated range of quality home and kitchen essentials"
+    },
+    "codPayment": {
+      "enabled": true,
+      "instructions": "Pay with physical cash to the courier rider upon package inspection and delivery."
+    },
+    "showLogo": true,
+    "logoWidth": 150,
+    "whatsappNumber": "0308-2494870",
+    "slogan": "Smart Products. Better Everyday Living.",
+    "policies": {
+      "returnRefundPolicy": "We provide a 7-day hassle-free replacement warranty for manufacturing defects or shipping damages. Simply contact our official WhatsApp at 0308-2494870 with an unboxing video or photos, and our team will arrange a replacement parcel immediately.",
+      "shippingPolicy": "We ship nationwide using courier partners (TCS, Leopards, Trax). A flat delivery fee of Rs. 250 is applied at checkout. Once dispatched, a live tracking code is provided via SMS / WhatsApp.",
+      "termsConditions": "All orders placed on Ammi Express are subject to telephone or WhatsApp confirmation before dispatch. Delivery timelines are typically 2 to 4 business days depending on city location. Customers must provide valid contact details to avoid delivery cancellation.",
+      "privacyPolicy": "At Ammi Express, your privacy is strictly protected. We collect your delivery name, contact number, and address strictly for shipping and courier confirmation purposes. We never sell, share, or disclose your personal contact information to third parties."
+    },
+    "faviconUrl": "",
+    "trustPoints": [
+      {
+        "description": "If you receive any damaged or defective item, we replace it instantly with zero hassle.",
+        "title": "7-Day Return & Replacement",
+        "id": "t1",
+        "icon": "ShieldCheck"
+      },
+      {
+        "title": "Fast Nationwide Delivery",
+        "icon": "Truck",
+        "id": "t2",
+        "description": "Orders dispatched within 24 hours via premium tracked courier services across Pakistan."
+      },
+      {
+        "title": "Cash On Delivery Available",
+        "icon": "Banknote",
+        "description": "Pay safely with cash at your doorstep when you physically receive your package.",
+        "id": "t3"
+      },
+      {
+        "title": "Direct WhatsApp Support",
+        "icon": "Headphones",
+        "id": "t4",
+        "description": "Real customer support on 0308-2494870 available 9:00 AM - 11:00 PM every day."
+      }
+    ],
+    "logoUrl": "/uploads/logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+    "deliveryInfo": {
+      "timeEstimate": "2 to 4 Business Days",
+      "citiesCovered": "Delivering to over 250+ cities, towns, and villages across Pakistan",
+      "packagingNotice": "Bubble-wrapped double reinforced box to ensure zero transit damage.",
+      "courierPartners": "TCS, Leopards, Call Courier & Trax Express"
+    },
+    "supportPhone": "0308-2494870",
+    "heroSettings": {
+      "subheading": "\"Experience pain-free precision with interchangeable heads, a high-speed alloy motor, and a sleek portable design for effortless everyday grooming.\"",
+      "badge": "🔥 Limited Time Offer",
+      "buttonLink": "#order-form",
+      "bannerImage": "",
+      "description": "\"Experience pain-free precision with interchangeable heads, a high-speed alloy motor, and a sleek portable design for effortless everyday grooming.\"",
+      "headingHighlight": "\"Precision Grooming\"",
+      "saleNotice": "Flash Sale: 25% OFF + 7-Day Replacement Guarantee",
+      "buttonText": "Order Cash On Delivery Now",
+      "heading": "\"Blawless 2-in-1 Eyebrow Trimmer & Shaver (HX-203B)\""
+    }
+  },
+  "categories": [
+    {
+      "id": "cat-kitchen",
+      "name": "Kitchen Gadgets",
+      "slug": "kitchen-gadgets",
+      "description": "Smart, wireless, and time-saving cooking accessories for everyday Pakistani households.",
+      "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=600&q=80",
+      "order": 1,
+      "visible": true,
+      "productCount": 2
+    },
+    {
+      "id": "cat-home",
+      "name": "Home Accessories",
+      "slug": "home-accessories",
+      "description": "Comfortable, energy-saving, and modern essentials for your living spaces.",
+      "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+      "order": 2,
+      "visible": true,
+      "productCount": 1
+    },
+    {
+      "id": "cat-lifestyle",
+      "name": "Lifestyle & Wellness",
+      "slug": "lifestyle-wellness",
+      "description": "Practical daily care, rechargeable wellness devices, and travel gadgets.",
+      "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=600&q=80",
+      "order": 3,
+      "visible": true,
+      "productCount": 0
+    }
+  ],
+  "homepageSections": [
+    {
+      "order": 4,
+      "subtitle": "Designed for Everyday Speed & Convenience",
+      "enabled": true,
+      "type": "benefits",
+      "id": "sec-benefits",
+      "visible": true,
+      "title": "Why Pakistani Homes Love It",
+      "description": "Key benefits and highlights for daily cooking prep"
+    },
+    {
+      "badge": "",
+      "enabled": true,
+      "buttonText": "",
+      "backgroundColor": "",
+      "textColor": "",
+      "subtitle": "Curated Kitchen & Home Collections",
+      "id": "sec-categories",
+      "order": 1,
+      "categoryId": "",
+      "visible": true,
+      "image": "",
+      "productIds": [],
+      "type": "categories",
+      "title": "Explore Categories",
+      "description": "Browse top trending product categories",
+      "buttonLink": ""
+    },
+    {
+      "id": "sec-delivery",
+      "enabled": true,
+      "description": "Orders dispatched within 24 hours",
+      "order": 8,
+      "visible": true,
+      "title": "Fast Nationwide Delivery",
+      "subtitle": "Doorstep Courier Tracking via TCS, Leopards & Trax",
+      "type": "delivery"
+    },
+    {
+      "enabled": true,
+      "id": "sec-faqs",
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything You Need to Know Before Ordering",
+      "description": "Answers about delivery times, checks, replacements, and JazzCash payment.",
+      "visible": true,
+      "order": 10,
+      "type": "faqs"
+    },
+    {
+      "id": "sec-featured-product",
+      "title": "Kitchen Gadgets Spotlight",
+      "type": "featured_product",
+      "description": "Ammi Express Smart Multi-Function Wireless Food Processor & Chopper",
+      "categoryId": "cat-kitchen",
+      "subtitle": "2025 Bestseller - 40% Limited Time Offer",
+      "enabled": true,
+      "order": 3,
+      "visible": true
+    },
+    {
+      "categoryId": "",
+      "subtitle": "Flash Sale & Quick Order",
+      "productIds": [],
+      "badge": "",
+      "description": "Main visual highlight with instant buy-now CTA",
+      "buttonLink": "",
+      "visible": true,
+      "type": "hero",
+      "image": "",
+      "order": 1,
+      "buttonText": "",
+      "backgroundColor": "",
+      "title": "Hero Showcase",
+      "enabled": true,
+      "textColor": "",
+      "id": "sec-hero"
+    },
+    {
+      "enabled": true,
+      "title": "Instant Cash on Delivery & JazzCash Checkout",
+      "type": "order_form",
+      "visible": true,
+      "order": 9,
+      "subtitle": "Fill your address details to confirm your order",
+      "id": "sec-order-form",
+      "description": "No credit card required. Pay cash to the courier or scan JazzCash QR."
+    },
+    {
+      "enabled": true,
+      "subtitle": "Customer Favorites Hand-picked for Quality",
+      "id": "sec-product-grid",
+      "title": "Trending & New Arrivals",
+      "visible": true,
+      "type": "product_grid",
+      "order": 5,
+      "description": "Top requested appliances and rechargeable kitchen gear"
+    },
+    {
+      "enabled": true,
+      "id": "sec-reviews",
+      "title": "Customer Experiences & Feedback",
+      "visible": true,
+      "subtitle": "Over 380+ 5-Star Reviews from Verified Buyers Across Pakistan",
+      "description": "Read what real homemakers in Karachi, Lahore, and Islamabad have to say",
+      "type": "reviews",
+      "order": 6
+    },
+    {
+      "subtitle": "Safe Delivery, 7-Day Guarantee & Direct WhatsApp Support",
+      "visible": true,
+      "order": 7,
+      "type": "trust",
+      "description": "Complete peace of mind with every order",
+      "id": "sec-trust",
+      "enabled": true,
+      "title": "Our Nationwide Promise"
+    }
+  ],
+  "banners": [
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1200&q=80",
+      "buttonText": "Shop Sale Deals",
+      "order": 1,
+      "enabled": true,
+      "badge": "Special Promo",
+      "subtitle": "Save up to 40% on wireless choppers & blenders with free warranty",
+      "id": "ban-1",
+      "title": "Ramadan & Eid Kitchen Mega Sale",
+      "discountText": "FLAT 40% OFF",
+      "buttonLink": "#order-form"
+    },
+    {
+      "badge": "Express Dispatch",
+      "discountText": "FREE VIP PACKING",
+      "order": 2,
+      "id": "ban-2",
+      "buttonLink": "#order-form",
+      "enabled": true,
+      "subtitle": "Pay via JazzCash Till ID 984210573 for express priority packaging",
+      "title": "Instant JazzCash & Raast Payment Bonus",
+      "buttonText": "Pay With JazzCash"
+    }
+  ],
+  "socialMediaLinks": [
+    {
+      "name": "Email",
+      "url": "support@ammiexpress.pk",
+      "enabled": true,
+      "id": "soc-email",
+      "order": 8,
+      "showInHeader": true,
+      "showInFooter": true,
+      "platform": "email"
+    },
+    {
+      "enabled": true,
+      "showInFooter": true,
+      "showInHeader": true,
+      "platform": "facebook",
+      "url": "https://facebook.com/ammiexpress.pk",
+      "name": "Facebook",
+      "order": 1,
+      "id": "soc-fb"
+    },
+    {
+      "enabled": true,
+      "platform": "instagram",
+      "url": "https://instagram.com/ammiexpress.pk",
+      "showInHeader": true,
+      "showInFooter": true,
+      "name": "Instagram",
+      "order": 2,
+      "id": "soc-ig"
+    },
+    {
+      "url": "https://pinterest.com/ammiexpresspk",
+      "platform": "pinterest",
+      "id": "soc-pin",
+      "showInHeader": false,
+      "showInFooter": true,
+      "name": "Pinterest",
+      "enabled": false,
+      "order": 6
+    },
+    {
+      "url": "https://tiktok.com/@ammiexpress.pk",
+      "name": "TikTok",
+      "id": "soc-tt",
+      "showInHeader": true,
+      "showInFooter": true,
+      "order": 3,
+      "enabled": true,
+      "platform": "tiktok"
+    },
+    {
+      "enabled": false,
+      "id": "soc-tw",
+      "name": "Twitter / X",
+      "url": "https://twitter.com/ammiexpresspk",
+      "showInHeader": false,
+      "showInFooter": true,
+      "order": 7,
+      "platform": "twitter"
+    },
+    {
+      "url": "https://wa.me/923082494870",
+      "enabled": true,
+      "showInHeader": true,
+      "showInFooter": true,
+      "platform": "whatsapp",
+      "order": 4,
+      "id": "soc-wa",
+      "name": "WhatsApp Channel"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://youtube.com/@ammiexpresspk",
+      "order": 5,
+      "id": "soc-yt",
+      "name": "YouTube",
+      "showInFooter": true,
+      "showInHeader": false,
+      "enabled": true
+    }
+  ],
+  "reviews": [
+    {
+      "date": "3 days ago",
+      "city": "Lahore (DHA Phase 5)",
+      "rating": 5,
+      "id": "rev-1",
+      "verifiedPurchase": true,
+      "name": "Mrs. Farzana Tariq",
+      "comment": "Bohot zabardast product hai! Daily handi banane k liye lehsan, adrak aur piaz 5 second me chop ho jata hai. Sabse achi baat wireless hai so switch board dhoondne ki zaroorat nahi. Parcel 2 din me TCS se mil gaya tha.",
+      "approved": true
+    },
+    {
+      "comment": "Ordered for my mother. She is very happy because unke haath me dard hota tha traditional chopper chalane se. Iska one-touch button bohot smooth hai. JazzCash payment ki thi aur Ammi Express team ne foran confirm kia.",
+      "approved": true,
+      "name": "Muhammad Usman Sheikh",
+      "verifiedPurchase": true,
+      "rating": 5,
+      "city": "Karachi (Gulshan-e-Iqbal)",
+      "id": "rev-2",
+      "date": "1 week ago"
+    },
+    {
+      "city": "Islamabad (F-10)",
+      "date": "2 weeks ago",
+      "rating": 5,
+      "name": "Dr. Ayesha Malik",
+      "comment": "Quality 10/10! Genuine stainless steel blades hain. Maine chicken boneless ka qeema bhi banaya hai, easily ho jata hai. Battery life is also very solid, still working on first charge. Highly recommended for every Pakistani kitchen.",
+      "approved": true,
+      "verifiedPurchase": true,
+      "id": "rev-3"
+    },
+    {
+      "comment": "Alhamdulillah received exact same item as shown in pictures. Packing bohot achi thi double bubble wrap ke sath. Delivery guy was professional and Cash on Delivery service was smooth.",
+      "date": "2 weeks ago",
+      "id": "rev-4",
+      "city": "Rawalpindi (Bahria Town)",
+      "name": "Kashif Mehmood",
+      "approved": true,
+      "rating": 5,
+      "verifiedPurchase": true
+    },
+    {
+      "rating": 5,
+      "verifiedPurchase": true,
+      "approved": true,
+      "name": "Hina Bilal",
+      "city": "Faisalabad (Kohinoor City)",
+      "id": "rev-5",
+      "date": "3 weeks ago",
+      "comment": "Green chillies chop karte waqt hathon me jalan hoti thi pehle, but with this chopper it is so easy and clean! Washing is literally just running tap water. 5 stars to Ammi Express!"
+    },
+    {
+      "approved": true,
+      "name": "Syed Hamza Ali",
+      "comment": "Good product. Very useful for quick salad and chutney. Delivered on time. Customer support on WhatsApp answered all questions promptly.",
+      "rating": 4,
+      "id": "rev-6",
+      "verifiedPurchase": true,
+      "city": "Peshawar (Hayatabad)",
+      "date": "1 month ago"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I place an order?",
+      "id": "faq-1",
+      "answer": "Simply select your desired color and quantity, fill in your delivery details in the order form at the bottom of the page, choose your preferred payment method (Cash on Delivery or JazzCash QR), and click \"Complete Order\". You will also receive an instant confirmation message."
+    },
+    {
+      "question": "Is Cash on Delivery (COD) available across Pakistan?",
+      "id": "faq-2",
+      "answer": "Yes! We provide Cash on Delivery all across Pakistan. You only pay cash to the courier rider when the parcel arrives safely at your doorstep."
+    },
+    {
+      "answer": "Select \"JazzCash QR Payment\" in the checkout form. You will see our verified Ammi Express QR Code and Till / Account details (0308-2494870). Scan with your JazzCash app, enter the grand total, and upload the screenshot or transaction ID. Your order will be prioritized and verified quickly.",
+      "id": "faq-3",
+      "question": "How do I pay using JazzCash QR?"
+    },
+    {
+      "answer": "Standard delivery takes 2 to 4 business days. Major cities like Lahore, Karachi, Rawalpindi, and Islamabad usually receive deliveries within 48 to 72 hours via our courier partners (TCS, Leopards, Trax).",
+      "question": "How long does delivery take?",
+      "id": "faq-4"
+    },
+    {
+      "answer": "Yes, we pack all items in genuine sealed boxes with our 7-Day Checking and Replacement Guarantee. If there is any fault, damage, or discrepancy, our WhatsApp support team (0308-2494870) resolves it immediately.",
+      "id": "faq-5",
+      "question": "Can I check the parcel before paying?"
+    },
+    {
+      "answer": "The package contains 1x Ammi Express Smart Motor Unit, 1x 250ml Food-grade PC Bowl, 1x 4-Blade 304 Stainless Steel Cyclone Assembly, 1x USB Type-C Fast Charging Cable, and 1x English/Urdu User Instruction Manual.",
+      "id": "faq-6",
+      "question": "What is included inside the box?"
+    }
+  ],
+  "orders": [
+    {
+      "item": {
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "quantity": 1,
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01"
+      },
+      "customer": {
+        "city": "Faisalabad",
+        "whatsappNumber": "03007669522",
+        "province": "Punjab",
+        "customerNote": "call b for delivery",
+        "fullName": "bilal arif",
+        "nearbyLandmark": "makki masjid",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "mobileNumber": "03007669522"
+      },
+      "id": "order-1790055732220",
+      "orderNumber": "AE-98061",
+      "history": [
+        {
+          "note": "Status manually changed to cancelled",
+          "author": "Admin",
+          "timestamp": "2026-09-22T06:15:52.673Z",
+          "id": "h-1790057752673",
+          "status": "cancelled"
+        },
+        {
+          "note": "Status manually changed to cancelled",
+          "timestamp": "2026-09-22T06:15:27.197Z",
+          "author": "Admin",
+          "id": "h-1790057727197",
+          "status": "cancelled"
+        },
+        {
+          "author": "Storefront",
+          "timestamp": "2026-09-22T05:42:12.220Z",
+          "note": "Order received via Cash on Delivery.",
+          "id": "h-1790055732220",
+          "status": "new"
+        }
+      ],
+      "payment": {
+        "screenshotUrl": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "transactionId": ""
+      },
+      "status": "cancelled",
+      "createdAt": "2026-09-22T05:42:12.220Z",
+      "pricing": {
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 2499,
+        "grandTotal": 2749
+      }
+    },
+    {
+      "status": "delivered",
+      "createdAt": "2026-09-22T05:42:20.555Z",
+      "customer": {
+        "city": "Faisalabad",
+        "province": "Punjab",
+        "customerNote": "call b for delivery",
+        "nearbyLandmark": "makki masjid",
+        "mobileNumber": "03007669522",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "whatsappNumber": "03007669522",
+        "fullName": "bilal arif"
+      },
+      "orderNumber": "AE-49363",
+      "pricing": {
+        "grandTotal": 2749,
+        "deliveryCharge": 250,
+        "subtotal": 2499,
+        "bundleDiscount": 0
+      },
+      "id": "order-1790055740555",
+      "item": {
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "sku": "V200-ULTRA-BLK",
+        "quantity": 1,
+        "variant": "Emerald Forest Green",
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01"
+      },
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation"
+      },
+      "history": [
+        {
+          "id": "h-1790063019978",
+          "author": "Admin",
+          "status": "delivered",
+          "note": "Status manually changed to delivered",
+          "timestamp": "2026-09-22T07:43:39.978Z"
+        },
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:43:26.749Z",
+          "status": "cancelled",
+          "note": "Status manually changed to cancelled",
+          "id": "h-1790063006749"
+        },
+        {
+          "author": "Admin",
+          "note": "Status manually changed to dispatched",
+          "timestamp": "2026-09-22T07:28:42.727Z",
+          "id": "h-1790062122727",
+          "status": "dispatched"
+        },
+        {
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "timestamp": "2026-09-22T06:15:10.766Z",
+          "author": "Admin",
+          "id": "h-1790057710766"
+        },
+        {
+          "timestamp": "2026-09-22T06:14:51.696Z",
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790057691696",
+          "author": "Admin"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-22T05:42:20.555Z",
+          "status": "new",
+          "author": "Storefront",
+          "id": "h-1790055740555"
+        }
+      ]
+    },
+    {
+      "orderNumber": "AE-27563",
+      "status": "cancelled",
+      "item": {
+        "variant": "Emerald Forest Green",
+        "sku": "V200-ULTRA-BLK",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "productId": "prod-ammi-01",
+        "unitPrice": 2499,
+        "quantity": 1
+      },
+      "createdAt": "2026-09-22T05:42:24.508Z",
+      "customer": {
+        "customerNote": "call b for delivery",
+        "mobileNumber": "03007669522",
+        "fullName": "bilal arif",
+        "nearbyLandmark": "makki masjid",
+        "whatsappNumber": "03007669522",
+        "province": "Punjab",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "city": "Faisalabad"
+      },
+      "pricing": {
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 2499,
+        "grandTotal": 2749
+      },
+      "history": [
+        {
+          "id": "h-1790062986341",
+          "note": "Status manually changed to cancelled",
+          "status": "cancelled",
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:43:06.341Z"
+        },
+        {
+          "note": "Status manually changed to dispatched",
+          "author": "Admin",
+          "id": "h-1790062110218",
+          "timestamp": "2026-09-22T07:28:30.218Z",
+          "status": "dispatched"
+        },
+        {
+          "id": "h-1790057619740",
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed",
+          "timestamp": "2026-09-22T06:13:39.740Z",
+          "author": "Admin"
+        },
+        {
+          "timestamp": "2026-09-22T06:13:17.411Z",
+          "status": "confirmed",
+          "id": "h-1790057597411",
+          "author": "Admin",
+          "note": "Status manually changed to confirmed"
+        },
+        {
+          "status": "new",
+          "timestamp": "2026-09-22T05:42:24.508Z",
+          "id": "h-1790055744508",
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront"
+        }
+      ],
+      "id": "order-1790055744508",
+      "payment": {
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": "",
+        "transactionId": ""
+      }
+    },
+    {
+      "customer": {
+        "whatsappNumber": "03007669522",
+        "city": "Faisalabad",
+        "province": "Punjab",
+        "mobileNumber": "03007669522",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "fullName": "bilal arif",
+        "customerNote": "call b for delivery",
+        "nearbyLandmark": "makki masjid"
+      },
+      "status": "cancelled",
+      "orderNumber": "AE-32805",
+      "pricing": {
+        "subtotal": 2499,
+        "grandTotal": 2749,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0
+      },
+      "item": {
+        "quantity": 1,
+        "unitPrice": 2499,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "productId": "prod-ammi-01",
+        "variant": "Emerald Forest Green",
+        "sku": "V200-ULTRA-BLK"
+      },
+      "createdAt": "2026-09-22T05:42:28.511Z",
+      "payment": {
+        "screenshotUrl": "",
+        "status": "pending_confirmation",
+        "method": "cod",
+        "transactionId": ""
+      },
+      "history": [
+        {
+          "id": "h-1790062974634",
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:42:54.634Z",
+          "status": "cancelled",
+          "note": "Status manually changed to cancelled"
+        },
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:28:13.828Z",
+          "note": "Status manually changed to dispatched",
+          "status": "dispatched",
+          "id": "h-1790062093828"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed",
+          "timestamp": "2026-09-22T06:13:01.233Z",
+          "author": "Admin",
+          "id": "h-1790057581233"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790057563730",
+          "status": "confirmed",
+          "timestamp": "2026-09-22T06:12:43.730Z",
+          "author": "Admin"
+        },
+        {
+          "timestamp": "2026-09-22T05:42:28.511Z",
+          "author": "Storefront",
+          "status": "new",
+          "id": "h-1790055748511",
+          "note": "Order received via Cash on Delivery."
+        }
+      ],
+      "id": "order-1790055748511"
+    },
+    {
+      "history": [
+        {
+          "author": "Admin",
+          "note": "Status manually changed to delivered",
+          "status": "delivered",
+          "timestamp": "2026-09-22T07:42:40.753Z",
+          "id": "h-1790062960753"
+        },
+        {
+          "author": "Admin",
+          "note": "Status manually changed to dispatched",
+          "id": "h-1790062082674",
+          "status": "dispatched",
+          "timestamp": "2026-09-22T07:28:02.674Z"
+        },
+        {
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790057541565",
+          "author": "Admin",
+          "timestamp": "2026-09-22T06:12:21.565Z"
+        },
+        {
+          "timestamp": "2026-09-22T06:12:07.548Z",
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "author": "Admin",
+          "id": "h-1790057527548"
+        },
+        {
+          "status": "new",
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-22T05:45:42.358Z",
+          "id": "h-1790055942358"
+        }
+      ],
+      "item": {
+        "variant": "Emerald Forest Green",
+        "productId": "prod-ammi-01",
+        "unitPrice": 2499,
+        "sku": "V200-ULTRA-BLK",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "quantity": 1
+      },
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation"
+      },
+      "pricing": {
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "subtotal": 2499,
+        "grandTotal": 2749
+      },
+      "customer": {
+        "city": "Faisalabad",
+        "whatsappNumber": "03007669522",
+        "mobileNumber": "03007669522",
+        "customerNote": "call b for delivery",
+        "province": "Punjab",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "fullName": "bilal arif",
+        "nearbyLandmark": "makki masjid"
+      },
+      "orderNumber": "AE-66524",
+      "id": "order-1790055942358",
+      "createdAt": "2026-09-22T05:45:42.358Z",
+      "status": "delivered"
+    },
+    {
+      "pricing": {
+        "grandTotal": 2749,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 2499
+      },
+      "id": "order-1790055945683",
+      "item": {
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01",
+        "quantity": 1,
+        "variant": "Emerald Forest Green",
+        "sku": "V200-ULTRA-BLK"
+      },
+      "orderNumber": "AE-99676",
+      "status": "delivered",
+      "history": [
+        {
+          "id": "h-1790062949045",
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:42:29.045Z",
+          "status": "delivered",
+          "note": "Status manually changed to delivered"
+        },
+        {
+          "status": "dispatched",
+          "note": "Status manually changed to dispatched",
+          "author": "Admin",
+          "id": "h-1790062072743",
+          "timestamp": "2026-09-22T07:27:52.743Z"
+        },
+        {
+          "timestamp": "2026-09-22T06:11:46.465Z",
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790057506465",
+          "author": "Admin"
+        },
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-22T06:11:21.929Z",
+          "id": "h-1790057481929",
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed"
+        },
+        {
+          "timestamp": "2026-09-22T05:45:45.683Z",
+          "status": "new",
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront",
+          "id": "h-1790055945683"
+        }
+      ],
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation"
+      },
+      "createdAt": "2026-09-22T05:45:45.683Z",
+      "customer": {
+        "whatsappNumber": "03007669522",
+        "fullName": "bilal arif",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "city": "Faisalabad",
+        "customerNote": "call b for delivery",
+        "mobileNumber": "03007669522",
+        "province": "Punjab",
+        "nearbyLandmark": "makki masjid"
+      }
+    },
+    {
+      "status": "delivered",
+      "customer": {
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "nearbyLandmark": "makki masjid",
+        "province": "Punjab",
+        "city": "Faisalabad",
+        "mobileNumber": "03007669522",
+        "whatsappNumber": "03007669522",
+        "fullName": "bilal arif",
+        "customerNote": "call b for delivery"
+      },
+      "pricing": {
+        "subtotal": 2499,
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "grandTotal": 2749
+      },
+      "item": {
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "variant": "Emerald Forest Green",
+        "sku": "V200-ULTRA-BLK",
+        "productId": "prod-ammi-01",
+        "unitPrice": 2499,
+        "quantity": 1
+      },
+      "createdAt": "2026-09-22T05:45:49.653Z",
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": ""
+      },
+      "orderNumber": "AE-57607",
+      "id": "order-1790055949653",
+      "history": [
+        {
+          "id": "h-1790062937031",
+          "note": "Status manually changed to delivered",
+          "timestamp": "2026-09-22T07:42:17.031Z",
+          "status": "delivered",
+          "author": "Admin"
+        },
+        {
+          "timestamp": "2026-09-22T07:27:40.756Z",
+          "author": "Admin",
+          "note": "Status manually changed to dispatched",
+          "status": "dispatched",
+          "id": "h-1790062060756"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790057467821",
+          "status": "confirmed",
+          "timestamp": "2026-09-22T06:11:07.821Z",
+          "author": "Admin"
+        },
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-22T06:10:55.151Z",
+          "id": "h-1790057455151",
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed"
+        },
+        {
+          "id": "h-1790055949653",
+          "status": "new",
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront",
+          "timestamp": "2026-09-22T05:45:49.653Z"
+        }
+      ]
+    },
+    {
+      "status": "delivered",
+      "createdAt": "2026-09-22T05:45:53.164Z",
+      "id": "order-1790055953164",
+      "pricing": {
+        "subtotal": 2499,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "grandTotal": 2749
+      },
+      "payment": {
+        "transactionId": "",
+        "status": "pending_confirmation",
+        "screenshotUrl": "",
+        "method": "cod"
+      },
+      "history": [
+        {
+          "id": "h-1790062928388",
+          "status": "delivered",
+          "timestamp": "2026-09-22T07:42:08.388Z",
+          "note": "Status manually changed to delivered",
+          "author": "Admin"
+        },
+        {
+          "note": "Status manually changed to dispatched",
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:27:30.714Z",
+          "id": "h-1790062050714",
+          "status": "dispatched"
+        },
+        {
+          "timestamp": "2026-09-22T06:10:32.541Z",
+          "author": "Admin",
+          "id": "h-1790057432541",
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "status": "new",
+          "timestamp": "2026-09-22T05:45:53.164Z",
+          "author": "Storefront",
+          "id": "h-1790055953164"
+        }
+      ],
+      "customer": {
+        "whatsappNumber": "03007669522",
+        "city": "Faisalabad",
+        "fullName": "bilal arif",
+        "customerNote": "call b for delivery",
+        "province": "Punjab",
+        "nearbyLandmark": "makki masjid",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "mobileNumber": "03007669522"
+      },
+      "item": {
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "variant": "Emerald Forest Green",
+        "quantity": 1,
+        "sku": "V200-ULTRA-BLK",
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01"
+      },
+      "orderNumber": "AE-71274"
+    },
+    {
+      "status": "delivered",
+      "id": "order-1790055957045",
+      "item": {
+        "variant": "Emerald Forest Green",
+        "productId": "prod-ammi-01",
+        "sku": "V200-ULTRA-BLK",
+        "unitPrice": 2499,
+        "quantity": 1,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women"
+      },
+      "createdAt": "2026-09-22T05:45:57.045Z",
+      "orderNumber": "AE-86966",
+      "pricing": {
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "subtotal": 2499,
+        "grandTotal": 2749
+      },
+      "history": [
+        {
+          "status": "delivered",
+          "id": "h-1790062917768",
+          "note": "Status manually changed to delivered",
+          "timestamp": "2026-09-22T07:41:57.768Z",
+          "author": "Admin"
+        },
+        {
+          "id": "h-1790062039638",
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:27:19.638Z",
+          "note": "Status manually changed to dispatched",
+          "status": "dispatched"
+        },
+        {
+          "status": "confirmed",
+          "timestamp": "2026-09-22T06:10:20.298Z",
+          "author": "Admin",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790057420298"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "timestamp": "2026-09-22T06:10:05.431Z",
+          "author": "Admin",
+          "status": "confirmed",
+          "id": "h-1790057405431"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "status": "new",
+          "timestamp": "2026-09-22T05:45:57.045Z",
+          "author": "Storefront",
+          "id": "h-1790055957045"
+        }
+      ],
+      "payment": {
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": "",
+        "transactionId": ""
+      },
+      "customer": {
+        "nearbyLandmark": "makki masjid",
+        "mobileNumber": "03007669522",
+        "city": "Faisalabad",
+        "customerNote": "call b for delivery",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "province": "Punjab",
+        "fullName": "bilal arif",
+        "whatsappNumber": "03007669522"
+      }
+    },
+    {
+      "createdAt": "2026-09-22T05:45:59.855Z",
+      "item": {
+        "quantity": 1,
+        "unitPrice": 2499,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "productId": "prod-ammi-01",
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green"
+      },
+      "history": [
+        {
+          "author": "Admin",
+          "note": "Status manually changed to delivered",
+          "timestamp": "2026-09-22T07:41:46.766Z",
+          "id": "h-1790062906766",
+          "status": "delivered"
+        },
+        {
+          "author": "Admin",
+          "id": "h-1790062030736",
+          "status": "dispatched",
+          "timestamp": "2026-09-22T07:27:10.736Z",
+          "note": "Status manually changed to dispatched"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "author": "Admin",
+          "timestamp": "2026-09-22T06:09:52.786Z",
+          "status": "confirmed",
+          "id": "h-1790057392786"
+        },
+        {
+          "id": "h-1790057381939",
+          "timestamp": "2026-09-22T06:09:41.939Z",
+          "author": "Admin",
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed"
+        },
+        {
+          "status": "new",
+          "id": "h-1790055959855",
+          "timestamp": "2026-09-22T05:45:59.855Z",
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery."
+        }
+      ],
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": ""
+      },
+      "id": "order-1790055959855",
+      "status": "delivered",
+      "customer": {
+        "mobileNumber": "03007669522",
+        "city": "Faisalabad",
+        "whatsappNumber": "03007669522",
+        "fullName": "bilal arif",
+        "customerNote": "call b for delivery",
+        "province": "Punjab",
+        "nearbyLandmark": "makki masjid",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad"
+      },
+      "orderNumber": "AE-27217",
+      "pricing": {
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "grandTotal": 2749,
+        "subtotal": 2499
+      }
+    },
+    {
+      "pricing": {
+        "subtotal": 2499,
+        "grandTotal": 2749,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0
+      },
+      "orderNumber": "AE-57576",
+      "item": {
+        "quantity": 1,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green",
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01"
+      },
+      "createdAt": "2026-09-22T05:46:03.781Z",
+      "history": [
+        {
+          "timestamp": "2026-09-22T07:41:39.517Z",
+          "status": "delivered",
+          "id": "h-1790062899517",
+          "note": "Status manually changed to delivered",
+          "author": "Admin"
+        },
+        {
+          "author": "Admin",
+          "note": "Status manually changed to dispatched",
+          "timestamp": "2026-09-22T07:26:59.248Z",
+          "id": "h-1790062019248",
+          "status": "dispatched"
+        },
+        {
+          "id": "h-1790057370561",
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "timestamp": "2026-09-22T06:09:30.561Z",
+          "author": "Admin"
+        },
+        {
+          "id": "h-1790057361510",
+          "timestamp": "2026-09-22T06:09:21.510Z",
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "author": "Admin"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront",
+          "id": "h-1790055963781",
+          "timestamp": "2026-09-22T05:46:03.781Z",
+          "status": "new"
+        }
+      ],
+      "payment": {
+        "screenshotUrl": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "transactionId": ""
+      },
+      "status": "delivered",
+      "id": "order-1790055963781",
+      "customer": {
+        "whatsappNumber": "03007669522",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "fullName": "bilal arif",
+        "customerNote": "call b for delivery",
+        "mobileNumber": "03007669522",
+        "city": "Faisalabad",
+        "province": "Punjab",
+        "nearbyLandmark": "makki masjid"
+      }
+    },
+    {
+      "history": [
+        {
+          "note": "Status manually changed to delivered",
+          "author": "Admin",
+          "id": "h-1790062889971",
+          "timestamp": "2026-09-22T07:41:29.971Z",
+          "status": "delivered"
+        },
+        {
+          "status": "dispatched",
+          "id": "h-1790062011448",
+          "note": "Status manually changed to dispatched",
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:26:51.448Z"
+        },
+        {
+          "id": "h-1790057310471",
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "timestamp": "2026-09-22T06:08:30.471Z",
+          "author": "Admin"
+        },
+        {
+          "timestamp": "2026-09-22T06:08:21.501Z",
+          "id": "h-1790057301501",
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "author": "Admin"
+        },
+        {
+          "id": "h-1790056179493",
+          "status": "new",
+          "timestamp": "2026-09-22T05:49:39.493Z",
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront"
+        }
+      ],
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": ""
+      },
+      "pricing": {
+        "grandTotal": 2749,
+        "subtotal": 2499,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0
+      },
+      "item": {
+        "variant": "Emerald Forest Green",
+        "sku": "V200-ULTRA-BLK",
+        "productId": "prod-ammi-01",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "unitPrice": 2499,
+        "quantity": 1
+      },
+      "customer": {
+        "mobileNumber": "03045813568",
+        "city": "karachi",
+        "fullName": "bilal nazer",
+        "whatsappNumber": "03045813568",
+        "customerNote": "2 to 4 delivery",
+        "province": "Sindh",
+        "nearbyLandmark": "ali street",
+        "address": "karachi shadra mor modal city a block street no 11 house no156"
+      },
+      "orderNumber": "AE-73791",
+      "createdAt": "2026-09-22T05:49:39.493Z",
+      "id": "order-1790056179493",
+      "status": "delivered"
+    },
+    {
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "screenshotUrl": "",
+        "status": "pending_confirmation"
+      },
+      "history": [
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:41:22.375Z",
+          "note": "Status manually changed to delivered",
+          "id": "h-1790062882375",
+          "status": "delivered"
+        },
+        {
+          "note": "Status manually changed to dispatched",
+          "author": "Admin",
+          "id": "h-1790061970253",
+          "timestamp": "2026-09-22T07:26:10.253Z",
+          "status": "dispatched"
+        },
+        {
+          "status": "confirmed",
+          "id": "h-1790057291211",
+          "author": "Admin",
+          "timestamp": "2026-09-22T06:08:11.211Z",
+          "note": "Status manually changed to confirmed"
+        },
+        {
+          "status": "new",
+          "timestamp": "2026-09-22T05:49:43.698Z",
+          "note": "Order received via Cash on Delivery.",
+          "id": "h-1790056183698",
+          "author": "Storefront"
+        }
+      ],
+      "id": "order-1790056183698",
+      "pricing": {
+        "grandTotal": 2749,
+        "bundleDiscount": 0,
+        "subtotal": 2499,
+        "deliveryCharge": 250
+      },
+      "orderNumber": "AE-11295",
+      "customer": {
+        "fullName": "bilal nazer",
+        "whatsappNumber": "03045813568",
+        "nearbyLandmark": "ali street",
+        "mobileNumber": "03045813568",
+        "province": "Sindh",
+        "customerNote": "2 to 4 delivery",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "city": "karachi"
+      },
+      "createdAt": "2026-09-22T05:49:43.698Z",
+      "status": "delivered",
+      "item": {
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01",
+        "sku": "V200-ULTRA-BLK",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "quantity": 1,
+        "variant": "Emerald Forest Green"
+      }
+    },
+    {
+      "orderNumber": "AE-58209",
+      "createdAt": "2026-09-22T05:49:46.481Z",
+      "status": "delivered",
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "status": "pending_confirmation",
+        "method": "cod"
+      },
+      "customer": {
+        "province": "Sindh",
+        "nearbyLandmark": "ali street",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "mobileNumber": "03045813568",
+        "whatsappNumber": "03045813568",
+        "city": "karachi",
+        "fullName": "bilal nazer",
+        "customerNote": "2 to 4 delivery"
+      },
+      "id": "order-1790056186481",
+      "history": [
+        {
+          "id": "h-1790062874266",
+          "timestamp": "2026-09-22T07:41:14.266Z",
+          "author": "Admin",
+          "note": "Status manually changed to delivered",
+          "status": "delivered"
+        },
+        {
+          "note": "Status manually changed to dispatched",
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:25:58.760Z",
+          "id": "h-1790061958760",
+          "status": "dispatched"
+        },
+        {
+          "status": "confirmed",
+          "timestamp": "2026-09-22T06:08:01.690Z",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790057281690",
+          "author": "Admin"
+        },
+        {
+          "author": "Storefront",
+          "id": "h-1790056186481",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-22T05:49:46.481Z",
+          "status": "new"
+        }
+      ],
+      "item": {
+        "productId": "prod-ammi-01",
+        "variant": "Emerald Forest Green",
+        "unitPrice": 2499,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "sku": "V200-ULTRA-BLK",
+        "quantity": 1
+      },
+      "pricing": {
+        "subtotal": 2499,
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "grandTotal": 2749
+      }
+    },
+    {
+      "status": "delivered",
+      "orderNumber": "AE-14844",
+      "customer": {
+        "city": "karachi",
+        "fullName": "bilal nazer",
+        "mobileNumber": "03045813568",
+        "nearbyLandmark": "ali street",
+        "customerNote": "2 to 4 delivery",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "whatsappNumber": "03045813568",
+        "province": "Sindh"
+      },
+      "id": "order-1790056190479",
+      "createdAt": "2026-09-22T05:49:50.479Z",
+      "item": {
+        "sku": "V200-ULTRA-BLK",
+        "quantity": 1,
+        "variant": "Emerald Forest Green",
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women"
+      },
+      "pricing": {
+        "grandTotal": 2749,
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "subtotal": 2499
+      },
+      "payment": {
+        "status": "pending_confirmation",
+        "method": "cod",
+        "screenshotUrl": "",
+        "transactionId": ""
+      },
+      "history": [
+        {
+          "status": "delivered",
+          "timestamp": "2026-09-22T07:41:06.120Z",
+          "author": "Admin",
+          "note": "Status manually changed to delivered",
+          "id": "h-1790062866120"
+        },
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:25:48.265Z",
+          "id": "h-1790061948265",
+          "status": "dispatched",
+          "note": "Status manually changed to dispatched"
+        },
+        {
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "author": "Admin",
+          "id": "h-1790057271656",
+          "timestamp": "2026-09-22T06:07:51.656Z"
+        },
+        {
+          "author": "Storefront",
+          "timestamp": "2026-09-22T05:49:50.479Z",
+          "status": "new",
+          "id": "h-1790056190479",
+          "note": "Order received via Cash on Delivery."
+        }
+      ]
+    },
+    {
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": ""
+      },
+      "status": "delivered",
+      "history": [
+        {
+          "timestamp": "2026-09-22T07:40:59.235Z",
+          "status": "delivered",
+          "note": "Status manually changed to delivered",
+          "id": "h-1790062859235",
+          "author": "Admin"
+        },
+        {
+          "author": "Admin",
+          "id": "h-1790061940797",
+          "note": "Status manually changed to dispatched",
+          "timestamp": "2026-09-22T07:25:40.797Z",
+          "status": "dispatched"
+        },
+        {
+          "id": "h-1790057265397",
+          "author": "Admin",
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed",
+          "timestamp": "2026-09-22T06:07:45.397Z"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "id": "h-1790056193128",
+          "status": "new",
+          "author": "Storefront",
+          "timestamp": "2026-09-22T05:49:53.128Z"
+        }
+      ],
+      "customer": {
+        "whatsappNumber": "03045813568",
+        "customerNote": "2 to 4 delivery",
+        "province": "Sindh",
+        "mobileNumber": "03045813568",
+        "city": "karachi",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "fullName": "bilal nazer",
+        "nearbyLandmark": "ali street"
+      },
+      "orderNumber": "AE-11093",
+      "item": {
+        "variant": "Emerald Forest Green",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "productId": "prod-ammi-01",
+        "quantity": 1,
+        "unitPrice": 2499,
+        "sku": "V200-ULTRA-BLK"
+      },
+      "id": "order-1790056193128",
+      "pricing": {
+        "subtotal": 2499,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "grandTotal": 2749
+      },
+      "createdAt": "2026-09-22T05:49:53.128Z"
+    },
+    {
+      "pricing": {
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "grandTotal": 2749,
+        "subtotal": 2499
+      },
+      "item": {
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01",
+        "variant": "Emerald Forest Green",
+        "quantity": 1,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "sku": "V200-ULTRA-BLK"
+      },
+      "createdAt": "2026-09-22T05:49:56.788Z",
+      "status": "delivered",
+      "history": [
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:40:52.537Z",
+          "id": "h-1790062852537",
+          "note": "Status manually changed to delivered",
+          "status": "delivered"
+        },
+        {
+          "note": "Status manually changed to dispatched",
+          "timestamp": "2026-09-22T07:25:33.753Z",
+          "id": "h-1790061933753",
+          "status": "dispatched",
+          "author": "Admin"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed",
+          "author": "Admin",
+          "id": "h-1790057259053",
+          "timestamp": "2026-09-22T06:07:39.053Z"
+        },
+        {
+          "author": "Storefront",
+          "timestamp": "2026-09-22T05:49:56.788Z",
+          "status": "new",
+          "note": "Order received via Cash on Delivery.",
+          "id": "h-1790056196788"
+        }
+      ],
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "status": "pending_confirmation",
+        "method": "cod"
+      },
+      "customer": {
+        "fullName": "bilal nazer",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "whatsappNumber": "03045813568",
+        "nearbyLandmark": "ali street",
+        "mobileNumber": "03045813568",
+        "customerNote": "2 to 4 delivery",
+        "city": "karachi",
+        "province": "Sindh"
+      },
+      "id": "order-1790056196788",
+      "orderNumber": "AE-31461"
+    },
+    {
+      "item": {
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green",
+        "productId": "prod-ammi-01",
+        "quantity": 1,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "unitPrice": 2499
+      },
+      "createdAt": "2026-09-22T05:49:59.953Z",
+      "status": "delivered",
+      "pricing": {
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "subtotal": 2499,
+        "grandTotal": 2749
+      },
+      "id": "order-1790056199953",
+      "customer": {
+        "mobileNumber": "03045813568",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "nearbyLandmark": "ali street",
+        "province": "Sindh",
+        "customerNote": "2 to 4 delivery",
+        "fullName": "bilal nazer",
+        "city": "karachi",
+        "whatsappNumber": "03045813568"
+      },
+      "orderNumber": "AE-63803",
+      "history": [
+        {
+          "note": "Status manually changed to delivered",
+          "author": "Admin",
+          "id": "h-1790062847805",
+          "status": "delivered",
+          "timestamp": "2026-09-22T07:40:47.805Z"
+        },
+        {
+          "author": "Admin",
+          "note": "Status manually changed to dispatched",
+          "id": "h-1790061929037",
+          "status": "dispatched",
+          "timestamp": "2026-09-22T07:25:29.037Z"
+        },
+        {
+          "timestamp": "2026-09-22T06:07:31.186Z",
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed",
+          "id": "h-1790057251186",
+          "author": "Admin"
+        },
+        {
+          "id": "h-1790056199953",
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-22T05:49:59.953Z",
+          "status": "new"
+        }
+      ],
+      "payment": {
+        "screenshotUrl": "",
+        "status": "pending_confirmation",
+        "transactionId": "",
+        "method": "cod"
+      }
+    },
+    {
+      "pricing": {
+        "grandTotal": 2749,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 2499
+      },
+      "id": "order-1790056209303",
+      "customer": {
+        "province": "Sindh",
+        "whatsappNumber": "03045813568",
+        "city": "karachi",
+        "mobileNumber": "03045813568",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "customerNote": "2 to 4 delivery",
+        "nearbyLandmark": "ali street",
+        "fullName": "bilal nazer"
+      },
+      "status": "delivered",
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation"
+      },
+      "history": [
+        {
+          "author": "Admin",
+          "id": "h-1790062843006",
+          "status": "delivered",
+          "note": "Status manually changed to delivered",
+          "timestamp": "2026-09-22T07:40:43.006Z"
+        },
+        {
+          "author": "Admin",
+          "id": "h-1790061924169",
+          "note": "Status manually changed to dispatched",
+          "status": "dispatched",
+          "timestamp": "2026-09-22T07:25:24.169Z"
+        },
+        {
+          "status": "confirmed",
+          "id": "h-1790057243652",
+          "timestamp": "2026-09-22T06:07:23.652Z",
+          "author": "Admin",
+          "note": "Status manually changed to confirmed"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "id": "h-1790056209303",
+          "status": "new",
+          "timestamp": "2026-09-22T05:50:09.303Z",
+          "author": "Storefront"
+        }
+      ],
+      "createdAt": "2026-09-22T05:50:09.303Z",
+      "orderNumber": "AE-48604",
+      "item": {
+        "sku": "V200-ULTRA-BLK",
+        "quantity": 1,
+        "unitPrice": 2499,
+        "variant": "Emerald Forest Green",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "productId": "prod-ammi-01"
+      }
+    },
+    {
+      "payment": {
+        "screenshotUrl": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "transactionId": ""
+      },
+      "history": [
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:40:38.001Z",
+          "id": "h-1790062838001",
+          "note": "Status manually changed to delivered",
+          "status": "delivered"
+        },
+        {
+          "note": "Status manually changed to dispatched",
+          "status": "dispatched",
+          "timestamp": "2026-09-22T07:25:18.909Z",
+          "id": "h-1790061918909",
+          "author": "Admin"
+        },
+        {
+          "timestamp": "2026-09-22T06:07:19.313Z",
+          "id": "h-1790057239313",
+          "author": "Admin",
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed"
+        },
+        {
+          "id": "h-1790056215957",
+          "author": "Storefront",
+          "timestamp": "2026-09-22T05:50:15.957Z",
+          "status": "new",
+          "note": "Order received via Cash on Delivery."
+        }
+      ],
+      "pricing": {
+        "subtotal": 2499,
+        "grandTotal": 2749,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0
+      },
+      "customer": {
+        "fullName": "bilal nazer",
+        "city": "karachi",
+        "nearbyLandmark": "ali street",
+        "customerNote": "2 to 4 delivery",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "mobileNumber": "03045813568",
+        "whatsappNumber": "03045813568",
+        "province": "Sindh"
+      },
+      "item": {
+        "quantity": 1,
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "productId": "prod-ammi-01",
+        "unitPrice": 2499
+      },
+      "id": "order-1790056215957",
+      "orderNumber": "AE-72231",
+      "status": "delivered",
+      "createdAt": "2026-09-22T05:50:15.957Z"
+    },
+    {
+      "status": "delivered",
+      "pricing": {
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "subtotal": 2499,
+        "grandTotal": 2749
+      },
+      "payment": {
+        "screenshotUrl": "",
+        "status": "pending_confirmation",
+        "transactionId": "",
+        "method": "cod"
+      },
+      "createdAt": "2026-09-22T05:50:18.303Z",
+      "orderNumber": "AE-52673",
+      "history": [
+        {
+          "status": "delivered",
+          "timestamp": "2026-09-22T07:40:33.515Z",
+          "id": "h-1790062833515",
+          "author": "Admin",
+          "note": "Status manually changed to delivered"
+        },
+        {
+          "id": "h-1790061914529",
+          "author": "Admin",
+          "note": "Status manually changed to dispatched",
+          "timestamp": "2026-09-22T07:25:14.529Z",
+          "status": "dispatched"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed",
+          "author": "Admin",
+          "id": "h-1790057230990",
+          "timestamp": "2026-09-22T06:07:10.990Z"
+        },
+        {
+          "timestamp": "2026-09-22T05:50:18.303Z",
+          "status": "new",
+          "note": "Order received via Cash on Delivery.",
+          "id": "h-1790056218303",
+          "author": "Storefront"
+        }
+      ],
+      "customer": {
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "fullName": "bilal nazer",
+        "whatsappNumber": "03045813568",
+        "city": "karachi",
+        "mobileNumber": "03045813568",
+        "customerNote": "2 to 4 delivery",
+        "province": "Sindh",
+        "nearbyLandmark": "ali street"
+      },
+      "id": "order-1790056218303",
+      "item": {
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green",
+        "quantity": 1,
+        "productId": "prod-ammi-01",
+        "unitPrice": 2499
+      }
+    },
+    {
+      "item": {
+        "variant": "Emerald Forest Green",
+        "sku": "V200-ULTRA-BLK",
+        "productId": "prod-ammi-01",
+        "unitPrice": 2499,
+        "quantity": 1,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women"
+      },
+      "createdAt": "2026-09-22T05:50:22.020Z",
+      "status": "delivered",
+      "orderNumber": "AE-46324",
+      "id": "order-1790056222020",
+      "pricing": {
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "grandTotal": 2749,
+        "subtotal": 2499
+      },
+      "history": [
+        {
+          "id": "h-1790062829235",
+          "author": "Admin",
+          "note": "Status manually changed to delivered",
+          "timestamp": "2026-09-22T07:40:29.235Z",
+          "status": "delivered"
+        },
+        {
+          "status": "dispatched",
+          "id": "h-1790061908460",
+          "timestamp": "2026-09-22T07:25:08.460Z",
+          "note": "Status manually changed to dispatched",
+          "author": "Admin"
+        },
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-22T06:06:44.008Z",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790057204008",
+          "status": "confirmed"
+        },
+        {
+          "status": "new",
+          "timestamp": "2026-09-22T05:50:22.020Z",
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront",
+          "id": "h-1790056222020"
+        }
+      ],
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": ""
+      },
+      "customer": {
+        "province": "Sindh",
+        "whatsappNumber": "03045813568",
+        "mobileNumber": "03045813568",
+        "nearbyLandmark": "ali street",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "fullName": "bilal nazer",
+        "city": "karachi",
+        "customerNote": "2 to 4 delivery"
+      }
+    },
+    {
+      "pricing": {
+        "grandTotal": 2749,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 2499
+      },
+      "item": {
+        "variant": "Emerald Forest Green",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "productId": "prod-ammi-01",
+        "sku": "V200-ULTRA-BLK",
+        "unitPrice": 2499,
+        "quantity": 1
+      },
+      "history": [
+        {
+          "author": "Admin",
+          "status": "delivered",
+          "id": "h-1790062824935",
+          "timestamp": "2026-09-22T07:40:24.935Z",
+          "note": "Status manually changed to delivered"
+        },
+        {
+          "note": "Status manually changed to dispatched",
+          "author": "Admin",
+          "id": "h-1790059755606",
+          "status": "dispatched",
+          "timestamp": "2026-09-22T06:49:15.606Z"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed",
+          "timestamp": "2026-09-22T06:06:31.792Z",
+          "author": "Admin",
+          "id": "h-1790057191792"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "id": "h-1790056224604",
+          "author": "Storefront",
+          "timestamp": "2026-09-22T05:50:24.604Z",
+          "status": "new"
+        }
+      ],
+      "orderNumber": "AE-31387",
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "screenshotUrl": "",
+        "status": "pending_confirmation"
+      },
+      "status": "delivered",
+      "id": "order-1790056224604",
+      "createdAt": "2026-09-22T05:50:24.604Z",
+      "customer": {
+        "city": "karachi",
+        "fullName": "bilal nazer",
+        "nearbyLandmark": "ali street",
+        "customerNote": "2 to 4 delivery",
+        "whatsappNumber": "03045813568",
+        "province": "Sindh",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "mobileNumber": "03045813568"
+      }
+    },
+    {
+      "orderNumber": "AE-12626",
+      "createdAt": "2026-09-22T05:50:27.177Z",
+      "id": "order-1790056227177",
+      "item": {
+        "sku": "V200-ULTRA-BLK",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "unitPrice": 2499,
+        "quantity": 1,
+        "productId": "prod-ammi-01",
+        "variant": "Emerald Forest Green"
+      },
+      "payment": {
+        "screenshotUrl": "",
+        "status": "pending_confirmation",
+        "transactionId": "",
+        "method": "cod"
+      },
+      "history": [
+        {
+          "note": "Status manually changed to delivered",
+          "author": "Admin",
+          "timestamp": "2026-09-22T07:40:19.679Z",
+          "status": "delivered",
+          "id": "h-1790062819679"
+        },
+        {
+          "id": "h-1790059749777",
+          "note": "Status manually changed to dispatched",
+          "timestamp": "2026-09-22T06:49:09.777Z",
+          "status": "dispatched",
+          "author": "Admin"
+        },
+        {
+          "author": "Admin",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790057136768",
+          "timestamp": "2026-09-22T06:05:36.768Z",
+          "status": "confirmed"
+        },
+        {
+          "status": "new",
+          "id": "h-1790057129605",
+          "author": "Admin",
+          "timestamp": "2026-09-22T06:05:29.605Z",
+          "note": "conform order"
+        },
+        {
+          "status": "new",
+          "id": "h-1790056227177",
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-22T05:50:27.177Z"
+        }
+      ],
+      "customer": {
+        "city": "karachi",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "customerNote": "2 to 4 delivery",
+        "fullName": "bilal nazer",
+        "mobileNumber": "03045813568",
+        "whatsappNumber": "03045813568",
+        "nearbyLandmark": "ali street",
+        "province": "Sindh"
+      },
+      "status": "delivered",
+      "pricing": {
+        "grandTotal": 2749,
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "subtotal": 2499
+      }
+    },
+    {
+      "orderNumber": "AE-25818",
+      "createdAt": "2026-09-23T05:46:47.858Z",
+      "payment": {
+        "screenshotUrl": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "transactionId": ""
+      },
+      "status": "delivered",
+      "history": [
+        {
+          "timestamp": "2026-09-24T07:11:50.509Z",
+          "note": "Status manually changed to delivered",
+          "status": "delivered",
+          "id": "h-1790233910509",
+          "author": "Admin"
+        },
+        {
+          "id": "h-1790233902432",
+          "status": "delivered",
+          "timestamp": "2026-09-24T07:11:42.432Z",
+          "note": "Status manually changed to delivered",
+          "author": "Admin"
+        },
+        {
+          "id": "h-1790233488238",
+          "author": "Admin",
+          "status": "dispatched",
+          "timestamp": "2026-09-24T07:04:48.238Z",
+          "note": "Status manually changed to dispatched"
+        },
+        {
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "author": "Admin",
+          "id": "h-1790227613139",
+          "timestamp": "2026-09-24T05:26:53.139Z"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-23T05:46:47.858Z",
+          "status": "new",
+          "id": "h-1790142407858",
+          "author": "Storefront"
+        }
+      ],
+      "customer": {
+        "province": "Punjab",
+        "city": "Faisalabad",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "nearbyLandmark": "",
+        "whatsappNumber": "03007669522",
+        "mobileNumber": "03007669522",
+        "customerNote": "",
+        "fullName": "bilal nazer"
+      },
+      "id": "order-1790142407858",
+      "item": {
+        "quantity": 1,
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01",
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women"
+      },
+      "pricing": {
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "grandTotal": 2749,
+        "subtotal": 2499
+      }
+    },
+    {
+      "payment": {
+        "screenshotUrl": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "transactionId": ""
+      },
+      "customer": {
+        "city": "Faisalabad",
+        "whatsappNumber": "03007669522",
+        "fullName": "bilal nazer",
+        "mobileNumber": "03007669522",
+        "province": "Punjab",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "nearbyLandmark": "",
+        "customerNote": ""
+      },
+      "history": [
+        {
+          "author": "Admin",
+          "timestamp": "2026-09-24T07:12:07.963Z",
+          "note": "Status manually changed to delivered",
+          "status": "delivered",
+          "id": "h-1790233927963"
+        },
+        {
+          "id": "h-1790233920220",
+          "timestamp": "2026-09-24T07:12:00.220Z",
+          "status": "delivered",
+          "author": "Admin",
+          "note": "Status manually changed to delivered"
+        },
+        {
+          "timestamp": "2026-09-24T07:04:53.251Z",
+          "status": "dispatched",
+          "id": "h-1790233493251",
+          "author": "Admin",
+          "note": "Status manually changed to dispatched"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed",
+          "author": "Admin",
+          "id": "h-1790227618075",
+          "timestamp": "2026-09-24T05:26:58.075Z"
+        },
+        {
+          "author": "Storefront",
+          "id": "h-1790142413285",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-23T05:46:53.285Z",
+          "status": "new"
+        }
+      ],
+      "id": "order-1790142413285",
+      "createdAt": "2026-09-23T05:46:53.285Z",
+      "pricing": {
+        "grandTotal": 2749,
+        "subtotal": 2499,
+        "bundleDiscount": 0,
+        "deliveryCharge": 250
+      },
+      "status": "delivered",
+      "orderNumber": "AE-57163",
+      "item": {
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "quantity": 1,
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01",
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green"
+      }
+    },
+    {
+      "customer": {
+        "province": "Punjab",
+        "mobileNumber": "03007669522",
+        "city": "Faisalabad",
+        "nearbyLandmark": "",
+        "customerNote": "",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "whatsappNumber": "03007669522",
+        "fullName": "bilal nazer"
+      },
+      "id": "order-1790142420918",
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation"
+      },
+      "createdAt": "2026-09-23T05:47:00.918Z",
+      "history": [
+        {
+          "author": "Admin",
+          "note": "Status manually changed to delivered",
+          "id": "h-1790233947430",
+          "timestamp": "2026-09-24T07:12:27.430Z",
+          "status": "delivered"
+        },
+        {
+          "note": "Status manually changed to delivered",
+          "author": "Admin",
+          "timestamp": "2026-09-24T07:12:17.868Z",
+          "id": "h-1790233937868",
+          "status": "delivered"
+        },
+        {
+          "timestamp": "2026-09-24T07:05:00.772Z",
+          "author": "Admin",
+          "note": "Status manually changed to dispatched",
+          "status": "dispatched",
+          "id": "h-1790233500772"
+        },
+        {
+          "timestamp": "2026-09-24T07:04:58.005Z",
+          "author": "Admin",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790233498005",
+          "status": "confirmed"
+        },
+        {
+          "author": "Admin",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790227625789",
+          "timestamp": "2026-09-24T05:27:05.789Z",
+          "status": "confirmed"
+        },
+        {
+          "status": "new",
+          "timestamp": "2026-09-23T05:47:00.918Z",
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront",
+          "id": "h-1790142420918"
+        }
+      ],
+      "status": "delivered",
+      "pricing": {
+        "bundleDiscount": 500,
+        "deliveryCharge": 250,
+        "subtotal": 7497,
+        "grandTotal": 7247
+      },
+      "item": {
+        "variant": "Emerald Forest Green",
+        "sku": "V200-ULTRA-BLK",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "productId": "prod-ammi-01",
+        "unitPrice": 2499,
+        "quantity": 3
+      },
+      "orderNumber": "AE-79916"
+    },
+    {
+      "status": "delivered",
+      "pricing": {
+        "deliveryCharge": 250,
+        "bundleDiscount": 500,
+        "grandTotal": 7247,
+        "subtotal": 7497
+      },
+      "payment": {
+        "transactionId": "",
+        "screenshotUrl": "",
+        "method": "cod",
+        "status": "pending_confirmation"
+      },
+      "history": [
+        {
+          "author": "Admin",
+          "status": "delivered",
+          "note": "Status manually changed to delivered",
+          "timestamp": "2026-09-24T07:12:57.119Z",
+          "id": "h-1790233977119"
+        },
+        {
+          "note": "Status manually changed to delivered",
+          "author": "Admin",
+          "timestamp": "2026-09-24T07:12:37.171Z",
+          "id": "h-1790233957171",
+          "status": "delivered"
+        },
+        {
+          "timestamp": "2026-09-24T07:05:06.443Z",
+          "id": "h-1790233506443",
+          "status": "dispatched",
+          "note": "Status manually changed to dispatched",
+          "author": "Admin"
+        },
+        {
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed",
+          "author": "Admin",
+          "id": "h-1790227631386",
+          "timestamp": "2026-09-24T05:27:11.386Z"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront",
+          "id": "h-1790142424572",
+          "timestamp": "2026-09-23T05:47:04.572Z",
+          "status": "new"
+        }
+      ],
+      "customer": {
+        "nearbyLandmark": "",
+        "customerNote": "",
+        "mobileNumber": "03007669522",
+        "province": "Punjab",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "fullName": "bilal nazer",
+        "city": "Faisalabad",
+        "whatsappNumber": "03007669522"
+      },
+      "item": {
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "variant": "Emerald Forest Green",
+        "sku": "V200-ULTRA-BLK",
+        "quantity": 3,
+        "productId": "prod-ammi-01",
+        "unitPrice": 2499
+      },
+      "orderNumber": "AE-98344",
+      "id": "order-1790142424572",
+      "createdAt": "2026-09-23T05:47:04.572Z"
+    },
+    {
+      "pricing": {
+        "subtotal": 4998,
+        "deliveryCharge": 250,
+        "bundleDiscount": 200,
+        "grandTotal": 5048
+      },
+      "customer": {
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "nearbyLandmark": "",
+        "fullName": "bilal nazer",
+        "mobileNumber": "03007669522",
+        "city": "Faisalabad",
+        "province": "Punjab",
+        "whatsappNumber": "03007669522",
+        "customerNote": ""
+      },
+      "status": "delivered",
+      "item": {
+        "productId": "prod-ammi-01",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "quantity": 2,
+        "unitPrice": 2499,
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green"
+      },
+      "history": [
+        {
+          "note": "Status manually changed to delivered",
+          "author": "Admin",
+          "id": "h-1790233988736",
+          "status": "delivered",
+          "timestamp": "2026-09-24T07:13:08.736Z"
+        },
+        {
+          "status": "dispatched",
+          "id": "h-1790233511485",
+          "note": "Status manually changed to dispatched",
+          "author": "Admin",
+          "timestamp": "2026-09-24T07:05:11.485Z"
+        },
+        {
+          "author": "Admin",
+          "note": "Status manually changed to confirmed",
+          "timestamp": "2026-09-24T05:27:15.870Z",
+          "status": "confirmed",
+          "id": "h-1790227635870"
+        },
+        {
+          "id": "h-1790142429558",
+          "status": "new",
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront",
+          "timestamp": "2026-09-23T05:47:09.558Z"
+        }
+      ],
+      "payment": {
+        "transactionId": "",
+        "status": "pending_confirmation",
+        "method": "cod",
+        "screenshotUrl": ""
+      },
+      "id": "order-1790142429558",
+      "orderNumber": "AE-20212",
+      "createdAt": "2026-09-23T05:47:09.558Z"
+    },
+    {
+      "status": "delivered",
+      "id": "order-1790142433374",
+      "customer": {
+        "fullName": "bilal nazer",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "whatsappNumber": "03007669522",
+        "nearbyLandmark": "",
+        "mobileNumber": "03007669522",
+        "province": "Punjab",
+        "customerNote": "",
+        "city": "Faisalabad"
+      },
+      "createdAt": "2026-09-23T05:47:13.374Z",
+      "pricing": {
+        "grandTotal": 5048,
+        "deliveryCharge": 250,
+        "bundleDiscount": 200,
+        "subtotal": 4998
+      },
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": ""
+      },
+      "item": {
+        "productId": "prod-ammi-01",
+        "unitPrice": 2499,
+        "variant": "Emerald Forest Green",
+        "sku": "V200-ULTRA-BLK",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "quantity": 2
+      },
+      "history": [
+        {
+          "timestamp": "2026-09-24T07:13:52.924Z",
+          "note": "Status manually changed to delivered",
+          "status": "delivered",
+          "author": "Admin",
+          "id": "h-1790234032924"
+        },
+        {
+          "id": "h-1790234021595",
+          "author": "Admin",
+          "timestamp": "2026-09-24T07:13:41.595Z",
+          "status": "delivered",
+          "note": "Status manually changed to delivered"
+        },
+        {
+          "author": "Admin",
+          "note": "Status manually changed to dispatched",
+          "timestamp": "2026-09-24T07:05:16.045Z",
+          "status": "dispatched",
+          "id": "h-1790233516045"
+        },
+        {
+          "id": "h-1790227640155",
+          "status": "confirmed",
+          "timestamp": "2026-09-24T05:27:20.155Z",
+          "author": "Admin",
+          "note": "Status manually changed to confirmed"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-23T05:47:13.374Z",
+          "author": "Storefront",
+          "id": "h-1790142433374",
+          "status": "new"
+        }
+      ],
+      "orderNumber": "AE-57174"
+    },
+    {
+      "status": "delivered",
+      "customer": {
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "mobileNumber": "03007669522",
+        "nearbyLandmark": "",
+        "fullName": "bilal nazer",
+        "customerNote": "",
+        "province": "Punjab",
+        "city": "Faisalabad",
+        "whatsappNumber": "03007669522"
+      },
+      "orderNumber": "AE-63842",
+      "id": "order-1790142438591",
+      "pricing": {
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "subtotal": 2499,
+        "grandTotal": 2749
+      },
+      "payment": {
+        "transactionId": "",
+        "screenshotUrl": "",
+        "status": "pending_confirmation",
+        "method": "cod"
+      },
+      "history": [
+        {
+          "timestamp": "2026-09-24T07:14:04.378Z",
+          "status": "delivered",
+          "note": "Status manually changed to delivered",
+          "id": "h-1790234044378",
+          "author": "Admin"
+        },
+        {
+          "status": "dispatched",
+          "id": "h-1790233520275",
+          "note": "Status manually changed to dispatched",
+          "timestamp": "2026-09-24T07:05:20.275Z",
+          "author": "Admin"
+        },
+        {
+          "timestamp": "2026-09-24T05:27:25.273Z",
+          "id": "h-1790227645273",
+          "note": "Status manually changed to confirmed",
+          "status": "confirmed",
+          "author": "Admin"
+        },
+        {
+          "id": "h-1790142438591",
+          "status": "new",
+          "timestamp": "2026-09-23T05:47:18.591Z",
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery."
+        }
+      ],
+      "item": {
+        "quantity": 1,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "variant": "Emerald Forest Green",
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01",
+        "sku": "V200-ULTRA-BLK"
+      },
+      "createdAt": "2026-09-23T05:47:18.591Z"
+    },
+    {
+      "pricing": {
+        "subtotal": 2499,
+        "grandTotal": 2749,
+        "bundleDiscount": 0,
+        "deliveryCharge": 250
+      },
+      "createdAt": "2026-09-23T05:47:26.547Z",
+      "status": "delivered",
+      "payment": {
+        "screenshotUrl": "",
+        "status": "pending_confirmation",
+        "method": "cod",
+        "transactionId": ""
+      },
+      "history": [
+        {
+          "timestamp": "2026-09-24T07:14:33.694Z",
+          "status": "delivered",
+          "note": "Status manually changed to delivered",
+          "author": "Admin",
+          "id": "h-1790234073694"
+        },
+        {
+          "status": "dispatched",
+          "author": "Admin",
+          "id": "h-1790233525235",
+          "note": "Status manually changed to dispatched",
+          "timestamp": "2026-09-24T07:05:25.235Z"
+        },
+        {
+          "timestamp": "2026-09-24T05:27:47.752Z",
+          "note": "Status manually changed to confirmed",
+          "id": "h-1790227667752",
+          "status": "confirmed",
+          "author": "Admin"
+        },
+        {
+          "timestamp": "2026-09-23T05:47:26.548Z",
+          "note": "Order received via Cash on Delivery.",
+          "status": "new",
+          "author": "Storefront",
+          "id": "h-1790142446548"
+        }
+      ],
+      "id": "order-1790142446547",
+      "orderNumber": "AE-70291",
+      "item": {
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green",
+        "productId": "prod-ammi-01",
+        "quantity": 1,
+        "unitPrice": 2499,
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women"
+      },
+      "customer": {
+        "customerNote": "",
+        "mobileNumber": "03007669522",
+        "fullName": "bilal nazer",
+        "nearbyLandmark": "",
+        "whatsappNumber": "03007669522",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "province": "Punjab",
+        "city": "Faisalabad"
+      }
+    },
+    {
+      "payment": {
+        "status": "pending_confirmation",
+        "method": "cod",
+        "screenshotUrl": "",
+        "transactionId": ""
+      },
+      "history": [
+        {
+          "timestamp": "2026-09-24T07:15:28.285Z",
+          "author": "Admin",
+          "note": "Status manually changed to delivered",
+          "status": "delivered",
+          "id": "h-1790234128285"
+        },
+        {
+          "id": "h-1790234113611",
+          "author": "Admin",
+          "note": "Status manually changed to cancelled",
+          "timestamp": "2026-09-24T07:15:13.611Z",
+          "status": "cancelled"
+        },
+        {
+          "note": "Status manually changed to dispatched",
+          "status": "dispatched",
+          "timestamp": "2026-09-24T07:05:33.664Z",
+          "id": "h-1790233533664",
+          "author": "Admin"
+        },
+        {
+          "note": "Status manually changed to confirmed",
+          "author": "Admin",
+          "timestamp": "2026-09-24T05:27:54.592Z",
+          "status": "confirmed",
+          "id": "h-1790227674592"
+        },
+        {
+          "note": "Order received via Cash on Delivery.",
+          "status": "new",
+          "author": "Storefront",
+          "timestamp": "2026-09-23T05:47:34.739Z",
+          "id": "h-1790142454739"
+        }
+      ],
+      "pricing": {
+        "grandTotal": 5048,
+        "deliveryCharge": 250,
+        "subtotal": 4998,
+        "bundleDiscount": 200
+      },
+      "customer": {
+        "mobileNumber": "03007669522",
+        "fullName": "bilal nazer",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "whatsappNumber": "03007669522",
+        "customerNote": "",
+        "nearbyLandmark": "",
+        "city": "Faisalabad",
+        "province": "Punjab"
+      },
+      "orderNumber": "AE-29493",
+      "createdAt": "2026-09-23T05:47:34.739Z",
+      "id": "order-1790142454739",
+      "item": {
+        "quantity": 2,
+        "sku": "V200-ULTRA-BLK",
+        "unitPrice": 2499,
+        "productId": "prod-ammi-01",
+        "variant": "Emerald Forest Green",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women"
+      },
+      "status": "delivered"
+    },
+    {
+      "orderNumber": "AE-83962",
+      "createdAt": "2026-09-23T05:47:45.773Z",
+      "status": "delivered",
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation"
+      },
+      "id": "order-1790142465773",
+      "customer": {
+        "whatsappNumber": "03007669522",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "city": "Faisalabad",
+        "province": "Punjab",
+        "fullName": "bilal nazer",
+        "mobileNumber": "03007669522",
+        "nearbyLandmark": "",
+        "customerNote": ""
+      },
+      "history": [
+        {
+          "note": "Status manually changed to delivered",
+          "status": "delivered",
+          "timestamp": "2026-09-24T07:14:55.155Z",
+          "author": "Admin",
+          "id": "h-1790234095155"
+        },
+        {
+          "id": "h-1790233540864",
+          "author": "Admin",
+          "status": "dispatched",
+          "timestamp": "2026-09-24T07:05:40.864Z",
+          "note": "Status manually changed to dispatched"
+        },
+        {
+          "author": "Admin",
+          "id": "h-1790227700277",
+          "timestamp": "2026-09-24T05:28:20.277Z",
+          "status": "confirmed",
+          "note": "Status manually changed to confirmed"
+        },
+        {
+          "status": "cancelled",
+          "timestamp": "2026-09-24T05:28:09.472Z",
+          "note": "Status manually changed to cancelled",
+          "author": "Admin",
+          "id": "h-1790227689472"
+        },
+        {
+          "author": "Storefront",
+          "timestamp": "2026-09-23T05:47:45.773Z",
+          "note": "Order received via Cash on Delivery.",
+          "status": "new",
+          "id": "h-1790142465773"
+        }
+      ],
+      "item": {
+        "productId": "prod-ammi-01",
+        "sku": "V200-ULTRA-BLK",
+        "unitPrice": 2499,
+        "variant": "Emerald Forest Green",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "quantity": 3
+      },
+      "pricing": {
+        "subtotal": 7497,
+        "grandTotal": 7247,
+        "deliveryCharge": 250,
+        "bundleDiscount": 500
+      }
+    },
+    {
+      "id": "order-1790142471317",
+      "createdAt": "2026-09-23T05:47:51.317Z",
+      "orderNumber": "AE-98747",
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "status": "pending_confirmation",
+        "method": "cod"
+      },
+      "status": "cancelled",
+      "customer": {
+        "fullName": "bilal nazer",
+        "whatsappNumber": "03007669522",
+        "mobileNumber": "03007669522",
+        "customerNote": "",
+        "address": "amin town a block street no 15 near govet giral highe school faisalabad",
+        "city": "Faisalabad",
+        "province": "Punjab",
+        "nearbyLandmark": ""
+      },
+      "history": [
+        {
+          "status": "cancelled",
+          "id": "h-1790227682118",
+          "timestamp": "2026-09-24T05:28:02.118Z",
+          "author": "Admin",
+          "note": "Status manually changed to cancelled"
+        },
+        {
+          "author": "Storefront",
+          "id": "h-1790142471317",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-23T05:47:51.317Z",
+          "status": "new"
+        }
+      ],
+      "item": {
+        "sku": "V200-ULTRA-BLK",
+        "variant": "Emerald Forest Green",
+        "productId": "prod-ammi-01",
+        "productTitle": "V200 Ultra Smart Watch with 2.2-Inch HD Large Display | Stylish Smartwatch for Men & Women",
+        "quantity": 1,
+        "unitPrice": 2499
+      },
+      "pricing": {
+        "deliveryCharge": 250,
+        "grandTotal": 2749,
+        "subtotal": 2499,
+        "bundleDiscount": 0
+      }
+    },
+    {
+      "id": "order-1790303040876",
+      "customer": {
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "province": "Punjab",
+        "whatsappNumber": "03045813568",
+        "city": "karachi",
+        "fullName": "bilal nazer",
+        "nearbyLandmark": "",
+        "mobileNumber": "03045813568",
+        "customerNote": ""
+      },
+      "createdAt": "2026-09-25T02:24:00.876Z",
+      "status": "new",
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation"
+      },
+      "history": [
+        {
+          "author": "Storefront",
+          "id": "h-1790303040876",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-25T02:24:00.876Z",
+          "status": "new"
+        }
+      ],
+      "item": {
+        "variant": "New Color",
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "productId": "prod-ammi-01",
+        "quantity": 1,
+        "unitPrice": 1199,
+        "sku": "SKU: AMMI-HX203B-2IN1"
+      },
+      "orderNumber": "AE-94861",
+      "pricing": {
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "grandTotal": 1449,
+        "subtotal": 1199
+      }
+    },
+    {
+      "status": "new",
+      "createdAt": "2026-09-25T02:24:05.513Z",
+      "id": "order-1790303045513",
+      "item": {
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "unitPrice": 1199,
+        "productId": "prod-ammi-01",
+        "variant": "New Color",
+        "quantity": 1
+      },
+      "customer": {
+        "province": "Punjab",
+        "nearbyLandmark": "",
+        "customerNote": "",
+        "whatsappNumber": "03045813568",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "city": "karachi",
+        "mobileNumber": "03045813568",
+        "fullName": "bilal nazer"
+      },
+      "pricing": {
+        "subtotal": 1199,
+        "grandTotal": 1449,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0
+      },
+      "orderNumber": "AE-97623",
+      "payment": {
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": "",
+        "transactionId": ""
+      },
+      "history": [
+        {
+          "timestamp": "2026-09-25T02:24:05.513Z",
+          "note": "Order received via Cash on Delivery.",
+          "status": "new",
+          "author": "Storefront",
+          "id": "h-1790303045513"
+        }
+      ]
+    },
+    {
+      "customer": {
+        "nearbyLandmark": "",
+        "city": "karachi",
+        "province": "Punjab",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "fullName": "bilal nazer",
+        "customerNote": "",
+        "whatsappNumber": "03045813568",
+        "mobileNumber": "03045813568"
+      },
+      "id": "order-1790303049293",
+      "item": {
+        "variant": "New Color",
+        "productId": "prod-ammi-01",
+        "unitPrice": 1199,
+        "quantity": 1,
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)"
+      },
+      "status": "new",
+      "pricing": {
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "grandTotal": 1449,
+        "subtotal": 1199
+      },
+      "createdAt": "2026-09-25T02:24:09.293Z",
+      "history": [
+        {
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-25T02:24:09.293Z",
+          "status": "new",
+          "id": "h-1790303049293",
+          "author": "Storefront"
+        }
+      ],
+      "orderNumber": "AE-29034",
+      "payment": {
+        "screenshotUrl": "",
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation"
+      }
+    },
+    {
+      "history": [
+        {
+          "status": "new",
+          "timestamp": "2026-09-25T02:24:13.656Z",
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront",
+          "id": "h-1790303053656"
+        }
+      ],
+      "payment": {
+        "transactionId": "",
+        "status": "pending_confirmation",
+        "method": "cod",
+        "screenshotUrl": ""
+      },
+      "item": {
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "quantity": 1,
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "variant": "New Color",
+        "unitPrice": 1199,
+        "productId": "prod-ammi-01"
+      },
+      "id": "order-1790303053656",
+      "pricing": {
+        "grandTotal": 1449,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 1199
+      },
+      "customer": {
+        "customerNote": "",
+        "city": "karachi",
+        "mobileNumber": "03045813568",
+        "nearbyLandmark": "",
+        "fullName": "bilal nazer",
+        "province": "Punjab",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "whatsappNumber": "03045813568"
+      },
+      "orderNumber": "AE-92285",
+      "status": "new",
+      "createdAt": "2026-09-25T02:24:13.656Z"
+    },
+    {
+      "customer": {
+        "province": "Punjab",
+        "city": "karachi",
+        "mobileNumber": "03045813568",
+        "customerNote": "",
+        "nearbyLandmark": "",
+        "whatsappNumber": "03045813568",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "fullName": "bilal nazer"
+      },
+      "payment": {
+        "screenshotUrl": "",
+        "status": "pending_confirmation",
+        "method": "cod",
+        "transactionId": ""
+      },
+      "id": "order-1790303057961",
+      "history": [
+        {
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery.",
+          "status": "new",
+          "id": "h-1790303057961",
+          "timestamp": "2026-09-25T02:24:17.961Z"
+        }
+      ],
+      "pricing": {
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 1199,
+        "grandTotal": 1449
+      },
+      "orderNumber": "AE-60425",
+      "item": {
+        "quantity": 1,
+        "variant": "New Color",
+        "productId": "prod-ammi-01",
+        "unitPrice": 1199,
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "sku": "SKU: AMMI-HX203B-2IN1"
+      },
+      "status": "new",
+      "createdAt": "2026-09-25T02:24:17.961Z"
+    },
+    {
+      "payment": {
+        "status": "pending_confirmation",
+        "method": "cod",
+        "screenshotUrl": "",
+        "transactionId": ""
+      },
+      "history": [
+        {
+          "author": "Storefront",
+          "id": "h-1790303062137",
+          "status": "new",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-25T02:24:22.137Z"
+        }
+      ],
+      "orderNumber": "AE-94303",
+      "pricing": {
+        "deliveryCharge": 250,
+        "subtotal": 1199,
+        "bundleDiscount": 0,
+        "grandTotal": 1449
+      },
+      "createdAt": "2026-09-25T02:24:22.137Z",
+      "customer": {
+        "province": "Punjab",
+        "nearbyLandmark": "",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "mobileNumber": "03045813568",
+        "city": "karachi",
+        "customerNote": "",
+        "whatsappNumber": "03045813568",
+        "fullName": "bilal nazer"
+      },
+      "item": {
+        "productId": "prod-ammi-01",
+        "variant": "New Color",
+        "unitPrice": 1199,
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "quantity": 1
+      },
+      "status": "new",
+      "id": "order-1790303062137"
+    },
+    {
+      "history": [
+        {
+          "id": "h-1790303065849",
+          "note": "Order received via Cash on Delivery.",
+          "status": "new",
+          "timestamp": "2026-09-25T02:24:25.849Z",
+          "author": "Storefront"
+        }
+      ],
+      "payment": {
+        "status": "pending_confirmation",
+        "method": "cod",
+        "transactionId": "",
+        "screenshotUrl": ""
+      },
+      "orderNumber": "AE-78582",
+      "pricing": {
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 1199,
+        "grandTotal": 1449
+      },
+      "item": {
+        "quantity": 1,
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "unitPrice": 1199,
+        "productId": "prod-ammi-01",
+        "variant": "New Color"
+      },
+      "customer": {
+        "mobileNumber": "03045813568",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "city": "karachi",
+        "whatsappNumber": "03045813568",
+        "customerNote": "",
+        "province": "Punjab",
+        "fullName": "bilal nazer",
+        "nearbyLandmark": ""
+      },
+      "createdAt": "2026-09-25T02:24:25.849Z",
+      "status": "new",
+      "id": "order-1790303065849"
+    },
+    {
+      "history": [
+        {
+          "note": "Order received via Cash on Delivery.",
+          "status": "new",
+          "id": "h-1790303070664",
+          "author": "Storefront",
+          "timestamp": "2026-09-25T02:24:30.664Z"
+        }
+      ],
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": ""
+      },
+      "customer": {
+        "fullName": "bilal nazer",
+        "whatsappNumber": "03045813568",
+        "city": "karachi",
+        "nearbyLandmark": "",
+        "customerNote": "",
+        "mobileNumber": "03045813568",
+        "province": "Punjab",
+        "address": "karachi shadra mor modal city a block street no 11 house no156"
+      },
+      "pricing": {
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "grandTotal": 1449,
+        "subtotal": 1199
+      },
+      "createdAt": "2026-09-25T02:24:30.664Z",
+      "item": {
+        "variant": "New Color",
+        "productId": "prod-ammi-01",
+        "unitPrice": 1199,
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "quantity": 1,
+        "sku": "SKU: AMMI-HX203B-2IN1"
+      },
+      "orderNumber": "AE-70999",
+      "status": "new",
+      "id": "order-1790303070663"
+    },
+    {
+      "history": [
+        {
+          "author": "Storefront",
+          "id": "h-1790303074508",
+          "status": "new",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-25T02:24:34.508Z"
+        }
+      ],
+      "id": "order-1790303074508",
+      "payment": {
+        "status": "pending_confirmation",
+        "method": "cod",
+        "screenshotUrl": "",
+        "transactionId": ""
+      },
+      "orderNumber": "AE-88595",
+      "item": {
+        "unitPrice": 1199,
+        "productId": "prod-ammi-01",
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "variant": "New Color",
+        "quantity": 1,
+        "sku": "SKU: AMMI-HX203B-2IN1"
+      },
+      "pricing": {
+        "grandTotal": 1449,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 1199
+      },
+      "createdAt": "2026-09-25T02:24:34.508Z",
+      "status": "new",
+      "customer": {
+        "city": "karachi",
+        "whatsappNumber": "03045813568",
+        "fullName": "bilal nazer",
+        "province": "Punjab",
+        "customerNote": "",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "nearbyLandmark": "",
+        "mobileNumber": "03045813568"
+      }
+    },
+    {
+      "createdAt": "2026-09-25T02:24:37.433Z",
+      "item": {
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "variant": "New Color",
+        "quantity": 1,
+        "productId": "prod-ammi-01",
+        "unitPrice": 1199
+      },
+      "history": [
+        {
+          "timestamp": "2026-09-25T02:24:37.433Z",
+          "id": "h-1790303077433",
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery.",
+          "status": "new"
+        }
+      ],
+      "payment": {
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": "",
+        "transactionId": ""
+      },
+      "orderNumber": "AE-87648",
+      "id": "order-1790303077433",
+      "pricing": {
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "grandTotal": 1449,
+        "subtotal": 1199
+      },
+      "customer": {
+        "city": "karachi",
+        "nearbyLandmark": "",
+        "fullName": "bilal nazer",
+        "province": "Punjab",
+        "customerNote": "",
+        "mobileNumber": "03045813568",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "whatsappNumber": "03045813568"
+      },
+      "status": "new"
+    },
+    {
+      "orderNumber": "AE-24175",
+      "createdAt": "2026-09-25T02:24:39.996Z",
+      "payment": {
+        "transactionId": "",
+        "screenshotUrl": "",
+        "status": "pending_confirmation",
+        "method": "cod"
+      },
+      "history": [
+        {
+          "id": "h-1790303079996",
+          "author": "Storefront",
+          "timestamp": "2026-09-25T02:24:39.996Z",
+          "status": "new",
+          "note": "Order received via Cash on Delivery."
+        }
+      ],
+      "id": "order-1790303079996",
+      "pricing": {
+        "grandTotal": 1449,
+        "subtotal": 1199,
+        "bundleDiscount": 0,
+        "deliveryCharge": 250
+      },
+      "status": "new",
+      "item": {
+        "quantity": 1,
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "variant": "New Color",
+        "unitPrice": 1199,
+        "productId": "prod-ammi-01"
+      },
+      "customer": {
+        "mobileNumber": "03045813568",
+        "nearbyLandmark": "",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "province": "Punjab",
+        "city": "karachi",
+        "customerNote": "",
+        "fullName": "bilal nazer",
+        "whatsappNumber": "03045813568"
+      }
+    },
+    {
+      "status": "new",
+      "item": {
+        "variant": "New Color",
+        "quantity": 1,
+        "unitPrice": 1199,
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "productId": "prod-ammi-01",
+        "sku": "SKU: AMMI-HX203B-2IN1"
+      },
+      "id": "order-1790303083800",
+      "orderNumber": "AE-30603",
+      "pricing": {
+        "grandTotal": 1449,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "subtotal": 1199
+      },
+      "history": [
+        {
+          "status": "new",
+          "id": "h-1790303083800",
+          "note": "Order received via Cash on Delivery.",
+          "author": "Storefront",
+          "timestamp": "2026-09-25T02:24:43.800Z"
+        }
+      ],
+      "createdAt": "2026-09-25T02:24:43.800Z",
+      "customer": {
+        "customerNote": "",
+        "fullName": "bilal nazer",
+        "mobileNumber": "03045813568",
+        "nearbyLandmark": "",
+        "whatsappNumber": "03045813568",
+        "province": "Punjab",
+        "city": "karachi",
+        "address": "karachi shadra mor modal city a block street no 11 house no156"
+      },
+      "payment": {
+        "transactionId": "",
+        "status": "pending_confirmation",
+        "method": "cod",
+        "screenshotUrl": ""
+      }
+    },
+    {
+      "pricing": {
+        "subtotal": 1199,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0,
+        "grandTotal": 1449
+      },
+      "orderNumber": "AE-71350",
+      "status": "new",
+      "item": {
+        "productId": "prod-ammi-01",
+        "variant": "New Color",
+        "unitPrice": 1199,
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "quantity": 1
+      },
+      "history": [
+        {
+          "status": "new",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-25T02:24:48.331Z",
+          "author": "Storefront",
+          "id": "h-1790303088331"
+        }
+      ],
+      "payment": {
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": "",
+        "transactionId": ""
+      },
+      "id": "order-1790303088331",
+      "createdAt": "2026-09-25T02:24:48.331Z",
+      "customer": {
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "city": "karachi",
+        "province": "Punjab",
+        "whatsappNumber": "03045813568",
+        "nearbyLandmark": "",
+        "fullName": "bilal nazer",
+        "mobileNumber": "03045813568",
+        "customerNote": ""
+      }
+    },
+    {
+      "id": "order-1790303091057",
+      "status": "new",
+      "orderNumber": "AE-93252",
+      "customer": {
+        "province": "Punjab",
+        "city": "karachi",
+        "whatsappNumber": "03045813568",
+        "customerNote": "",
+        "nearbyLandmark": "",
+        "fullName": "bilal nazer",
+        "mobileNumber": "03045813568",
+        "address": "karachi shadra mor modal city a block street no 11 house no156"
+      },
+      "item": {
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "unitPrice": 1199,
+        "quantity": 1,
+        "productId": "prod-ammi-01",
+        "variant": "New Color",
+        "sku": "SKU: AMMI-HX203B-2IN1"
+      },
+      "pricing": {
+        "grandTotal": 1449,
+        "subtotal": 1199,
+        "bundleDiscount": 0,
+        "deliveryCharge": 250
+      },
+      "createdAt": "2026-09-25T02:24:51.057Z",
+      "payment": {
+        "transactionId": "",
+        "method": "cod",
+        "status": "pending_confirmation",
+        "screenshotUrl": ""
+      },
+      "history": [
+        {
+          "timestamp": "2026-09-25T02:24:51.057Z",
+          "id": "h-1790303091057",
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery.",
+          "status": "new"
+        }
+      ]
+    },
+    {
+      "customer": {
+        "fullName": "bilal nazer",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "whatsappNumber": "03045813568",
+        "nearbyLandmark": "",
+        "mobileNumber": "03045813568",
+        "city": "karachi",
+        "province": "Punjab",
+        "customerNote": ""
+      },
+      "createdAt": "2026-09-25T02:24:54.148Z",
+      "id": "order-1790303094148",
+      "payment": {
+        "transactionId": "",
+        "status": "pending_confirmation",
+        "method": "cod",
+        "screenshotUrl": ""
+      },
+      "history": [
+        {
+          "note": "Order received via Cash on Delivery.",
+          "id": "h-1790303094148",
+          "status": "new",
+          "author": "Storefront",
+          "timestamp": "2026-09-25T02:24:54.148Z"
+        }
+      ],
+      "status": "new",
+      "pricing": {
+        "grandTotal": 1449,
+        "bundleDiscount": 0,
+        "deliveryCharge": 250,
+        "subtotal": 1199
+      },
+      "item": {
+        "quantity": 1,
+        "variant": "New Color",
+        "productId": "prod-ammi-01",
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "unitPrice": 1199
+      },
+      "orderNumber": "AE-88777"
+    },
+    {
+      "orderNumber": "AE-14301",
+      "createdAt": "2026-09-25T02:24:57.856Z",
+      "status": "new",
+      "customer": {
+        "nearbyLandmark": "",
+        "address": "karachi shadra mor modal city a block street no 11 house no156",
+        "province": "Punjab",
+        "city": "karachi",
+        "customerNote": "",
+        "fullName": "bilal nazer",
+        "mobileNumber": "03045813568",
+        "whatsappNumber": "03045813568"
+      },
+      "pricing": {
+        "grandTotal": 1449,
+        "subtotal": 1199,
+        "deliveryCharge": 250,
+        "bundleDiscount": 0
+      },
+      "id": "order-1790303097856",
+      "item": {
+        "variant": "New Color",
+        "productTitle": "Blawless 2-in-1 Eyebrow Trimmer & Facial Hair Remover (HX-203B)",
+        "productId": "prod-ammi-01",
+        "sku": "SKU: AMMI-HX203B-2IN1",
+        "unitPrice": 1199,
+        "quantity": 1
+      },
+      "payment": {
+        "transactionId": "",
+        "status": "pending_confirmation",
+        "method": "cod",
+        "screenshotUrl": ""
+      },
+      "history": [
+        {
+          "author": "Storefront",
+          "note": "Order received via Cash on Delivery.",
+          "timestamp": "2026-09-25T02:24:57.856Z",
+          "id": "h-1790303097856",
+          "status": "new"
+        }
+      ]
+    }
+  ],
+  "inventoryMovements": [],
+  "notifications": [],
+  "productHandlingTexts": [
+    {
+      "productId": "prod-ammi-01",
+      "sku": "SKU: AMMI-HX203B-2IN1",
+      "deepDiveBadge": "\"Special Launch Offer\"",
+      "mainHeading": "\"Complete Product Overview & Features\"",
+      "mainDescription": "\"Discover the ultimate grooming experience with the Blawless 2-in-1 Eyebrow Trimmer & Shaver (HX-203B). Engineered with a high-speed silver-palladium alloy motor and precision stainless steel blades, this portable device offers versatile grooming with interchangeable heads for both flawless eyebrow shaping and smooth facial hair removal. USB rechargeable and lightweight, it is designed for effortless, everyday personal care wherever you go.\"   ",
+      "buyerProtectionHeading": "Ammi Express Buyer Protection",
+      "buyerProtectionDescription": "\"Shop with complete confidence! We ensure secure transactions, hassle-free returns, and 100% product verification so you receive exactly what you ordered in perfect condition.\"",
+      "benefitsHeading": "\"Key Benefits of Your Daily Grooming Companion\"",
+      "benefitsSection": {
+        "eyebrow": "ENGINEERED FOR DAILY USE",
+        "heading": "Why Every Pakistani Kitchen Needs This",
+        "description": "Say goodbye to painful manual chopping, burning eyes, and tangled electrical cords."
+      },
+      "benefits": [
+        {
+          "description": "\"Designed with precision-engineered blades that glide smoothly against your skin, removing unwanted hair instantly without nicks, cuts, redness, or irritation.\"",
+          "title": "\"Pain-Free & Gentle Trimming\"",
+          "displayOrder": 1,
+          "icon": "Heart",
+          "enabled": true,
+          "id": "b-1"
+        },
+        {
+          "displayOrder": 2,
+          "title": "\"Versatile 2-in-1 Grooming\"",
+          "id": "b-2",
+          "enabled": true,
+          "description": "Real-time biometric monitoring with multi-sport athletic tracking modes.",
+          "icon": "Flame"
+        },
+        {
+          "displayOrder": 3,
+          "description": "Edge-to-edge vibrant crystal display easily readable even under bright outdoor sunlight.",
+          "enabled": true,
+          "title": "\"⚡ Flash Sale: Get the Blawless 2-in-1 Eyebrow & Facial Shaver at Massive Discount!\"",
+          "id": "b-3",
+          "icon": "Flame"
+        },
+        {
+          "icon": "Heart",
+          "id": "b-4",
+          "description": "\"Features easily swappable precision heads that seamlessly transition from flawless eyebrow shaping to smooth facial hair removal, giving you two essential tools in one compact device.\"",
+          "enabled": true,
+          "title": "\"💥 Hot Deal Alert: Flawless Grooming Power – Save Big Today Only!\"",
+          "displayOrder": 4
+        }
+      ],
+      "storyHeading": "\"From Unwanted Hair to Effortless Glow: The Ultimate Grooming Transformation\"",
+      "storyDescription": "\"Tired of painful threading, messy waxing, and unexpected nicks when rushing out the door? Meet your new daily routine changer. Whether you are touching up your brows before work or removing fine facial hair on the go, the Blawless 2-in-1 Trimmer brings salon-quality precision right to your vanity or handbag. With its gentle, high-speed motor and lightweight, portable design, grooming is no longer a chore—it is an effortless, pain-free ritual that leaves your skin smooth, confident, and glowing in seconds.\"",
+      "safetyHeading": "\"Safe, Hypoallergenic & Skin-Friendly Care\"",
+      "safetyDescription": "\"Crafted with high-grade, hypoallergenic stainless steel blades and a protective skin-guard mesh, this trimmer ensures absolute safety for all skin types—including sensitive skin. It prevents direct contact between the sharp edge and your skin, eliminating the risk of cuts, burns, or irritation for a completely worry-free grooming experience.\"",
+      "guaranteeText": "7 Days Check & Replacement Guarantee with direct WhatsApp support.",
+      "deliveryText": "Free Express 2-3 Day Delivery Across Pakistan (Cash on Delivery Available)",
+      "ctaText": "\"🛒 Order Now & Claim Discount\"",
+      "customSections": [
+        {
+          "icon": "Heart",
+          "id": "cs-1",
+          "heading": "\"Frequently Asked Questions (FAQs)\"",
+          "displayOrder": 1,
+          "enabled": true,
+          "description": "\"Got questions about your 2-in-1 Trimmer? Find quick answers below regarding delivery, usage, and charging.\""
+        }
+      ],
+      "createdAt": "2026-09-18T14:42:58.509Z",
+      "updatedAt": "2026-09-25T10:36:42.878Z",
+      "deletedAt": null
+    }
+  ],
+  "performanceMetrics": [
+    {
+      "id": "perf-1790331965933-22kfs",
+      "timestamp": "2026-09-25T10:26:05.933Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 11193,
+      "apiLatencyMs": 596,
+      "apiPayloadSizeBytes": 36521,
+      "imageLoadTimeMs": 770,
+      "imageCount": 1,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 770,
+      "totalImageSizeBytes": 36787,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 770,
+          "transferSizeBytes": 36787,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 58,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1831109
+      },
+      "ttfbMs": 526,
+      "domContentLoadedMs": 11181,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790243318066-k6sux",
+      "timestamp": "2026-09-24T09:48:38.066Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 5701,
+      "apiLatencyMs": 519,
+      "apiPayloadSizeBytes": 36533,
+      "imageLoadTimeMs": 39,
+      "imageCount": 7,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 227,
+      "totalImageSizeBytes": 1088473,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 227,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584992236310-6edddc08acff",
+          "durationMs": 13,
+          "transferSizeBytes": 201083,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 12,
+          "transferSizeBytes": 65636,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 8,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1513694203232-719a280e022f",
+          "durationMs": 6,
+          "transferSizeBytes": 19879,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584308666744-24d5c474f2ae",
+          "durationMs": 6,
+          "transferSizeBytes": 39082,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 3,
+          "transferSizeBytes": 32187,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 7,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 4988535
+      },
+      "ttfbMs": 528,
+      "domContentLoadedMs": 5690,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790242990470-f07g4",
+      "timestamp": "2026-09-24T09:43:10.470Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 8407,
+      "apiLatencyMs": 511,
+      "apiPayloadSizeBytes": 36533,
+      "imageLoadTimeMs": 149,
+      "imageCount": 11,
+      "slowestImageName": "photo-1556911220-e15b29be8c8f",
+      "slowestImageTimeMs": 574,
+      "totalImageSizeBytes": 1631926,
+      "imagesDetail": [
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 574,
+          "transferSizeBytes": 32487,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584308666744-24d5c474f2ae",
+          "durationMs": 568,
+          "transferSizeBytes": 39382,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1584992236310-6edddc08acff",
+          "durationMs": 351,
+          "transferSizeBytes": 201383,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1556911220-e15b29be8c8f",
+          "durationMs": 114,
+          "transferSizeBytes": 65936,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1513694203232-719a280e022f",
+          "durationMs": 30,
+          "transferSizeBytes": 19879,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 3,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        },
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 0,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_2c174fb94bfebd3e78d-1790151342793.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 57629,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_a59ca5c2fd93b49cfa4-1790151343478.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 49228,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_d5a077010bb7c7767ab-1790151344385.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 69524,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_15_09ee989b9616f61691d-1790151353896.jpg",
+          "durationMs": 0,
+          "transferSizeBytes": 365872,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 11,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5752511
+      },
+      "ttfbMs": 463,
+      "domContentLoadedMs": 8402,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790240696858-l3cu6",
+      "timestamp": "2026-09-24T09:04:56.858Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 15165,
+      "apiLatencyMs": 505,
+      "apiPayloadSizeBytes": 34853,
+      "imageLoadTimeMs": 191,
+      "imageCount": 3,
+      "slowestImageName": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+      "slowestImageTimeMs": 499,
+      "totalImageSizeBytes": 788235,
+      "imagesDetail": [
+        {
+          "name": "logo-chatgpt-image-sep-17--2026--05-1789650056419.png",
+          "durationMs": 499,
+          "transferSizeBytes": 696677,
+          "initiatorType": "img"
+        },
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 58,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        },
+        {
+          "name": "products-2026_08_18_2c174fb94bfebd3e78d-1790151342793.jpg",
+          "durationMs": 15,
+          "transferSizeBytes": 57629,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 3,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 5414477
+      },
+      "ttfbMs": 544,
+      "domContentLoadedMs": 15157,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790239491665-nykpj",
+      "timestamp": "2026-09-24T08:44:51.665Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 8400,
+      "apiLatencyMs": 672,
+      "apiPayloadSizeBytes": 30293,
+      "imageLoadTimeMs": 18,
+      "imageCount": 1,
+      "slowestImageName": "photo-1590794056226-79ef3a8147e1",
+      "slowestImageTimeMs": 18,
+      "totalImageSizeBytes": 33929,
+      "imagesDetail": [
+        {
+          "name": "photo-1590794056226-79ef3a8147e1",
+          "durationMs": 18,
+          "transferSizeBytes": 33929,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 1,
+        "scriptsCount": 59,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1800085
+      },
+      "ttfbMs": 471,
+      "domContentLoadedMs": 8396,
+      "dnsTimeMs": 0,
+      "tcpTimeMs": 0,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "perf-1790166878414-9di4t",
+      "timestamp": "2026-09-23T12:34:38.414Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 3100,
+      "apiLatencyMs": 1178,
+      "apiPayloadSizeBytes": 42800,
+      "imageLoadTimeMs": 1612,
+      "imageCount": 14,
+      "slowestImageName": "/uploads/chopper-hero-emerald-forest.webp",
+      "slowestImageTimeMs": 1488,
+      "totalImageSizeBytes": 1420500,
+      "imagesDetail": [
+        {
+          "name": "chopper-hero-emerald-forest.webp",
+          "durationMs": 1488,
+          "transferSizeBytes": 412000,
+          "initiatorType": "img"
+        },
+        {
+          "name": "ammi-express-real-jazzcash-qr.png",
+          "durationMs": 682,
+          "transferSizeBytes": 98400,
+          "initiatorType": "img"
+        },
+        {
+          "name": "chopper-specs-diagram.webp",
+          "durationMs": 961,
+          "transferSizeBytes": 245000,
+          "initiatorType": "img"
+        },
+        {
+          "name": "ammi-express-logo-badge.png",
+          "durationMs": 465,
+          "transferSizeBytes": 45000,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 14,
+        "scriptsCount": 5,
+        "stylesheetsCount": 2,
+        "totalTransferBytes": 1980000
+      },
+      "ttfbMs": 465,
+      "domContentLoadedMs": 2015,
+      "navigationType": "simulated_test",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "Simulated Benchmark Test"
+    },
+    {
+      "id": "perf-1790166873332-p86dd",
+      "timestamp": "2026-09-23T12:34:33.332Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 1420,
+      "apiLatencyMs": 85,
+      "apiPayloadSizeBytes": 45120,
+      "imageLoadTimeMs": 280,
+      "imageCount": 12,
+      "slowestImageName": "chopper-hero-emerald-forest.webp",
+      "slowestImageTimeMs": 510,
+      "totalImageSizeBytes": 1250000,
+      "imagesDetail": [
+        {
+          "name": "chopper-hero-emerald-forest.webp",
+          "durationMs": 510,
+          "transferSizeBytes": 380000,
+          "initiatorType": "img"
+        },
+        {
+          "name": "ammi-express-real-jazzcash-qr.png",
+          "durationMs": 190,
+          "transferSizeBytes": 92000,
+          "initiatorType": "img"
+        }
+      ],
+      "resourcesSummary": {
+        "imagesCount": 12,
+        "scriptsCount": 4,
+        "stylesheetsCount": 1,
+        "totalTransferBytes": 1650000
+      },
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": false,
+      "userAgent": "curl/7.88.1"
+    },
+    {
+      "id": "perf-1790166312170-p9kci",
+      "timestamp": "2026-09-23T12:25:12.170Z",
+      "page": "storefront",
+      "initialLoadTimeMs": 2340,
+      "apiLatencyMs": 120,
+      "ttfbMs": 45,
+      "domContentLoadedMs": 890,
+      "navigationType": "navigate",
+      "thresholdMs": 2000,
+      "exceeded": true,
+      "userAgent": "node"
+    }
+  ],
+  "performanceSettings": {
+    "thresholdMs": 1000,
+    "alertEnabled": true,
+    "trackStorefront": true
+  }
+}
