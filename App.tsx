@@ -8,7 +8,6 @@ import { Product, StoreSettings, CustomerReview, FAQItem, Order, AdminUser, Prod
 import { Settings, ShieldCheck } from 'lucide-react';
 import { defaultProducts } from './defaultData';
 // Components
-import { AnnouncementBar } from './components/AnnouncementBar';
 import { Header } from './components/Header';
 import { HeroSection } from './components/HeroSection';
 import { ProductBenefits } from './components/ProductBenefits';
