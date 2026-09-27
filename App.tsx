@@ -1,23 +1,15 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
 import React, { useState, useEffect } from 'react';
-import { Product, StoreSettings, CustomerReview, FAQItem, Order, AdminUser, ProductCategory, HomepageSection } from './types';
-import { Settings, ShieldCheck } from 'lucide-react';
+import Navbar from './Navbar';
+import Hero from './Hero';
+import ProductCard from './ProductCard';
+import ProductDetailModal from './ProductDetailModal';
+import CartDrawer from './CartDrawer';
+import CheckoutModal from './CheckoutModal';
+import OrderSuccessModal from './OrderSuccessModal';
+import AdminPanel from './AdminPanel';
+import Footer from './Footer';
+import { Product, CartItem, OrderDetails } from './types';
 import { defaultProducts } from './defaultData';
-// Components
-import { Header } from './components/Header';
-import { HeroSection } from './components/HeroSection';
-import { ProductBenefits } from './components/ProductBenefits';
-import { ProductDescription } from './components/ProductDescription';
-import { ProductFeatures } from './components/ProductFeatures';
-import { HowItWorks } from './components/HowItWorks';
-import { ProductSpecifications } from './components/ProductSpecifications';
-import { CustomerReviews } from './components/CustomerReviews';
-import { TrustSection } from './components/TrustSection';
-import { DeliveryInfo } from './components/DeliveryInfo';
 import { OrderForm } from './components/OrderForm';
 import { FAQSection } from './components/FAQSection';
 import { Footer } from './components/Footer';
