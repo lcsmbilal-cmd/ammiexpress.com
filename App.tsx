@@ -214,12 +214,8 @@ export default function App() {
   return (
     <div className="min-h-screen bg-white text-[#222222] font-sans antialiased selection:bg-[#F5B800] selection:text-black">
       
-      {/* 1. Announcement Bar */}
-      <AnnouncementBar
-        text={settings?.announcementBar?.text || '🚚 Fast Delivery All Over Pakistan | 💵 Cash on Delivery Available'}
-        linkText={settings?.announcementBar?.linkText || 'Order Now'}
+        linkText={settings?.?.linkText || 'Order Now'}
         onActionClick={scrollToOrderForm}
-        enabled={settings?.announcementBar?.enabled ?? true}
       />
 
       {/* 2. Sticky Header */}
