@@ -9,14 +9,7 @@ import OrderSuccessModal from './OrderSuccessModal';
 import AdminPanel from './AdminPanel';
 import Footer from './Footer';
 import { Product, CartItem, OrderDetails } from './types';
-import { defaultProducts } from './defaultData';
-import { OrderForm } from './components/OrderForm';
-import { FAQSection } from './components/FAQSection';
-import { Footer } from './components/Footer';
-import { MobileStickyBar } from './components/MobileStickyBar';
-import { OrderConfirmationModal } from './components/OrderConfirmationModal';
-
-// Admin System Components
+import { defaultProducts } from './defaultData';// Admin System Components
 import { AdminLogin } from './components/admin/AdminLogin';
 import { AdminDashboard } from './components/admin/AdminDashboard';
 import { trackStorefrontInitialLoad } from './utils/performanceMonitor';
